@@ -13,4 +13,4 @@ export * from './SocialLinks';
 export * from './Swap';
 export * from './Table';
 export * from './Toast';
-export * from './WalletInfo';
+export * from './AirdropInfoContainer';

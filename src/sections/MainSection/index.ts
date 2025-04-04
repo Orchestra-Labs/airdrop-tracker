@@ -1,5 +1,5 @@
 export * from './atoms';
-export * from './hooks';
-export * from './SwapSection';
+export * from './airdropList';
+export * from './MainSection';
 export * from './types';
 export * from './utils';
