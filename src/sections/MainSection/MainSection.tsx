@@ -1,28 +1,20 @@
 import { useChain } from '@cosmos-kit/react';
-import { useAtomValue, useSetAtom } from 'jotai';
+import { useAtomValue } from 'jotai';
 import waves2 from '@/assets/images/waves-test.svg';
 import { defaultChainName } from '@/constants';
-import { useWalletAssets } from '@/hooks/useWalletAssets';
-import { useEffect } from 'react';
-import { ErrorMessageAtom, WalletAssetsAtom } from './atoms';
+import { ErrorMessageAtom } from './atoms';
 import { WalletInfoContainer } from '@/components';
 import { airdropRecipients } from './airdropList';
 
 export const SwapSection = () => {
   const errorMessage = useAtomValue(ErrorMessageAtom);
-  const setWalletAssets = useSetAtom(WalletAssetsAtom);
 
-  const { data } = useWalletAssets();
   const { address: sendAddress } = useChain(defaultChainName);
 
   // Look up the airdrop entries for the sendAddress
   const airdropInfo = sendAddress
     ? airdropRecipients[sendAddress] ?? null
     : null;
-
-  useEffect(() => {
-    setWalletAssets(data?.assets ?? []);
-  }, [data]);
 
   return (
     <div className="min-h-screen relative">
