@@ -10,7 +10,6 @@ export * from './NavItems';
 export * from './ScrollToTop';
 export * from './Select';
 export * from './SocialLinks';
-export * from './Swap';
 export * from './Table';
 export * from './Toast';
 export * from './AirdropInfoContainer';
