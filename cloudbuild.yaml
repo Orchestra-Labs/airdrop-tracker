@@ -1,6 +1,7 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '--no-cache', '-t', 'gcr.io/$PROJECT_ID/symphony-site', '.']
+    args:
+      ['build', '--no-cache', '-t', 'gcr.io/$PROJECT_ID/airdrop-tracker', '.']
   - name: 'gcr.io/cloud-builders/gcloud'
     args: ['app', 'deploy']
 timeout: '1600s'

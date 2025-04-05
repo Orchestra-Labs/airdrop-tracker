@@ -1,6 +1,6 @@
 # ![Orchestra Logo](./src/assets/images/symphony_logo.svg 'Orchestra Logo') Orchestra Labs
 
-The swap dApp to interact with Symphony's stablecoins.
+The airdrop tracker to check incoming drops from Symphony.
 
 ## Installation
 
