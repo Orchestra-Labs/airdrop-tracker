@@ -1,6 +1,6 @@
 # ![Orchestra Logo](./src/assets/images/symphony_logo.svg 'Orchestra Logo') Orchestra Labs
 
-The airdrop tracker to check incoming drops from Symphony.
+The airdrop tracker to check incoming drops for the Symphony blockchain.
 
 ## Installation
 
