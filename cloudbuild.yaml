@@ -1,6 +1,25 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
     args: ['build', '--no-cache', '-t', 'gcr.io/$PROJECT_ID/symphony-site', '.']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/symphony-site']
+
   - name: 'gcr.io/cloud-builders/gcloud'
-    args: ['app', 'deploy']
+    args:
+      [
+        'run',
+        'deploy',
+        'airdrop-tracker',
+        '--image',
+        'gcr.io/$PROJECT_ID/symphony-site',
+        '--region',
+        'us-east1',
+        '--platform',
+        'managed',
+        '--allow-unauthenticated',
+        '--port',
+        '4173',
+      ]
+
 timeout: '1600s'
