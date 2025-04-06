@@ -1,9 +1,20 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '--no-cache', '-t', 'gcr.io/$PROJECT_ID/symphony-site', '.']
+    args:
+      [
+        'build',
+        '--no-cache',
+        '-t',
+        'us-east1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/airdrop-tracker/airdrop-tracker:latest',
+        '.',
+      ]
 
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/$PROJECT_ID/symphony-site']
+    args:
+      [
+        'push',
+        'us-east1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/airdrop-tracker/airdrop-tracker:latest',
+      ]
 
   - name: 'gcr.io/cloud-builders/gcloud'
     args:
@@ -12,7 +23,7 @@ steps:
         'deploy',
         'airdrop-tracker',
         '--image',
-        'gcr.io/$PROJECT_ID/symphony-site',
+        'us-east1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/airdrop-tracker/airdrop-tracker:latest',
         '--region',
         'us-east1',
         '--platform',
