@@ -1,6 +1,6 @@
 FROM node:20.9.0
-
 WORKDIR /usr/src/app
+
 COPY . .
 
 ENV PORT=4173
@@ -8,6 +8,5 @@ EXPOSE 4173
 
 RUN yarn install
 RUN yarn build
-RUN yarn global add serve
 
-CMD ["serve", "-s", "dist", "-l", "4173"]
+CMD ["yarn", "start"]
