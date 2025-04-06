@@ -29,14 +29,19 @@ type CategoryTotals = Record<string, number>;
 
 export const AirdropInfoContainer = ({
   airdropRecipients,
-  airdropInfo,
 }: {
   airdropRecipients: AirdropRecipients;
-  airdropInfo: AirdropEntry[] | null;
 }) => {
   const { username, address } = useChain(defaultChainName);
   const { toast } = useToast();
   const [viewTopRecipients, setViewTopRecipients] = useState(false);
+
+  const { address: sendAddress } = useChain(defaultChainName);
+
+  // Look up the airdrop entries for the sendAddress
+  const airdropInfo = sendAddress
+    ? airdropRecipients[sendAddress] ?? null
+    : null;
 
   const totalsByRecipient: Record<string, number> = {};
 

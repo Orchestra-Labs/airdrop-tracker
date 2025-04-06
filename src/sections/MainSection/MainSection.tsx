@@ -1,20 +1,11 @@
-import { useChain } from '@cosmos-kit/react';
 import { useAtomValue } from 'jotai';
 import waves2 from '@/assets/images/waves-test.svg';
-import { defaultChainName } from '@/constants';
 import { ErrorMessageAtom } from './atoms';
 import { airdropRecipients } from './airdropList';
 import { AirdropInfoContainer } from '@/components';
 
 export const SwapSection = () => {
   const errorMessage = useAtomValue(ErrorMessageAtom);
-
-  const { address: sendAddress } = useChain(defaultChainName);
-
-  // Look up the airdrop entries for the sendAddress
-  const airdropInfo = sendAddress
-    ? airdropRecipients[sendAddress] ?? null
-    : null;
 
   return (
     <div className="min-h-screen relative">
@@ -27,10 +18,7 @@ export const SwapSection = () => {
           className="flex flex-col max-w-[882px] text-center items-center gap-4"
           style={{ marginTop: '6rem', marginBottom: '2rem' }}
         >
-          <AirdropInfoContainer
-            airdropRecipients={airdropRecipients}
-            airdropInfo={airdropInfo}
-          />
+          <AirdropInfoContainer airdropRecipients={airdropRecipients} />
           <div className="min-h-[24px]">
             <p className="text-error">{errorMessage}</p>
           </div>
