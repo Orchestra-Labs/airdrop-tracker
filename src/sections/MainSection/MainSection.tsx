@@ -1,7 +1,6 @@
 import { useAtomValue } from 'jotai';
 import waves2 from '@/assets/images/waves-test.svg';
 import { ErrorMessageAtom } from './atoms';
-import { airdropRecipients } from './airdropList';
 import { AirdropInfoContainer } from '@/components';
 
 export const SwapSection = () => {
@@ -18,7 +17,7 @@ export const SwapSection = () => {
           className="flex flex-col max-w-[882px] text-center items-center gap-4"
           style={{ marginTop: '6rem', marginBottom: '2rem' }}
         >
-          <AirdropInfoContainer airdropRecipients={airdropRecipients} />
+          <AirdropInfoContainer />
           <div className="min-h-[24px]">
             <p className="text-error">{errorMessage}</p>
           </div>

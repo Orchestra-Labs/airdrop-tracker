@@ -20,18 +20,14 @@ import {
 import { Button } from '../Button';
 import {
   AirdropEntry,
-  AirdropRecipients,
+  airdropRecipients,
   truncateString,
   VALID_AIRDROP_CATEGORIES,
 } from '@/sections';
 
 type CategoryTotals = Record<string, number>;
 
-export const AirdropInfoContainer = ({
-  airdropRecipients,
-}: {
-  airdropRecipients: AirdropRecipients;
-}) => {
+export const AirdropInfoContainer = () => {
   const { username, address } = useChain(defaultChainName);
   const { toast } = useToast();
   const [viewTopRecipients, setViewTopRecipients] = useState(false);
