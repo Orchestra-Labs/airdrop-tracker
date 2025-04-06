@@ -10,4 +10,4 @@ ENV YARN_ENABLE_IMMUTABLE_INSTALLS=false
 RUN yarn install
 RUN yarn build
 
-CMD ["yarn", "start"]
+CMD ["yarn", "vite", "preview", "--port", "4173"]
