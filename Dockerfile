@@ -11,4 +11,5 @@ RUN yarn install
 RUN yarn build
 RUN yarn global add serve
 
+RUN echo "Container starting on port $PORT"
 CMD ["serve", "-s", "dist", "-l", "4173"]
