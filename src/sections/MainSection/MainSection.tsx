@@ -3,8 +3,8 @@ import { useAtomValue } from 'jotai';
 import waves2 from '@/assets/images/waves-test.svg';
 import { defaultChainName } from '@/constants';
 import { ErrorMessageAtom } from './atoms';
-import { WalletInfoContainer } from '@/components';
 import { airdropRecipients } from './airdropList';
+import { AirdropInfoContainer } from '@/components';
 
 export const SwapSection = () => {
   const errorMessage = useAtomValue(ErrorMessageAtom);
@@ -27,7 +27,7 @@ export const SwapSection = () => {
           className="flex flex-col max-w-[882px] text-center items-center gap-4"
           style={{ marginTop: '6rem', marginBottom: '2rem' }}
         >
-          <WalletInfoContainer
+          <AirdropInfoContainer
             airdropRecipients={airdropRecipients}
             airdropInfo={airdropInfo}
           />

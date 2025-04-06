@@ -27,7 +27,7 @@ import {
 
 type CategoryTotals = Record<string, number>;
 
-export const WalletInfoContainer = ({
+export const AirdropInfoContainer = ({
   airdropRecipients,
   airdropInfo,
 }: {
