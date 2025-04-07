@@ -21,7 +21,8 @@ const airdropArray = [
     entries: [{ amount: 6150, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
-    recipient: 'sychonix',
+    friendlyName: 'sychonix',
+    recipient: 'symphony1g7u2rvuff7lx73eahtr2qsvngv6ptp2hqmp8jp',
     entries: [{ amount: 3700, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
