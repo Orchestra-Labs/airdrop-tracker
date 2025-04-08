@@ -22,3 +22,19 @@ export const VALID_AIRDROP_CATEGORIES = [
   'Communities',
   'Fairdrop',
 ] as readonly string[];
+
+export enum AirdropStatus {
+  NotStarted = 'Not Started',
+  Ongoing = 'Ongoing',
+  Counted = 'Counted',
+  Cliff = 'Cliff',
+  Vesting = 'Vesting',
+  Disbursed = 'Disbursed',
+}
+
+export const AIRDROP_CATEGORY_STATUS: Record<string, AirdropStatus> = {
+  'Discord Events': AirdropStatus.Ongoing,
+  'Testnet Tasks': AirdropStatus.Ongoing,
+  Communities: AirdropStatus.NotStarted,
+  Fairdrop: AirdropStatus.NotStarted,
+};

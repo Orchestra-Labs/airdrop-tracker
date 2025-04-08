@@ -19,8 +19,10 @@ import {
 } from '../Table';
 import { Button } from '../Button';
 import {
+  AIRDROP_CATEGORY_STATUS,
   AirdropEntry,
   airdropRecipients,
+  AirdropStatus,
   truncateString,
   VALID_AIRDROP_CATEGORIES,
 } from '@/sections';
@@ -144,11 +146,14 @@ export const AirdropInfoContainer = () => {
                     </>
                   ) : (
                     <>
-                      <TableHead className="w-1/2 text-white">
+                      <TableHead className="w-[40%] text-white">
                         Category
                       </TableHead>
-                      <TableHead className="w-1/2 text-white text-right">
+                      <TableHead className="w-[30%] text-white text-right">
                         Airdrop
+                      </TableHead>
+                      <TableHead className="w-[30%] text-white text-right">
+                        Status
                       </TableHead>
                     </>
                   )}
@@ -170,17 +175,36 @@ export const AirdropInfoContainer = () => {
                             {truncateString(walletPrefix, entry.recipient)}
                           </TableCell>
                           <TableCell className="w-[30%] text-right text-green-400">
-                            {entry.amount}
+                            {entry.amount.toLocaleString('en-US')}
                           </TableCell>
                         </TableRow>
                       ))
                     : VALID_AIRDROP_CATEGORIES.map(category => (
                         <TableRow key={category}>
-                          <TableCell className="w-1/2 text-white text-left">
+                          <TableCell className="text-white text-left">
                             {category}
                           </TableCell>
-                          <TableCell className="w-1/2 text-right text-green-400">
-                            {categoryTotals[category]}
+                          <TableCell className="text-right">
+                            {AIRDROP_CATEGORY_STATUS[category] === 'Not Started'
+                              ? '-'
+                              : categoryTotals[category].toLocaleString(
+                                  'en-US',
+                                )}
+                          </TableCell>
+                          <TableCell className="text-right">
+                            <span
+                              className={`${
+                                AIRDROP_CATEGORY_STATUS[category] ===
+                                AirdropStatus.Ongoing
+                                  ? 'text-success'
+                                  : AIRDROP_CATEGORY_STATUS[category] ===
+                                      AirdropStatus.NotStarted
+                                    ? 'text-warning'
+                                    : 'text-white'
+                              }`}
+                            >
+                              {AIRDROP_CATEGORY_STATUS[category]}
+                            </span>
                           </TableCell>
                         </TableRow>
                       ))}
@@ -191,8 +215,11 @@ export const AirdropInfoContainer = () => {
 
           <div className="flex justify-end mt-1">
             <span className="text-white font-bold mr-2">Total:</span>
-            <span className="text-green-400 font-bold">
-              {viewTopRecipients ? topRecipientsTotal : recipientTotal}
+            <span className="font-bold">
+              {(viewTopRecipients
+                ? topRecipientsTotal
+                : recipientTotal
+              ).toLocaleString('en-US')}
             </span>
           </div>
         </div>
