@@ -26,6 +26,7 @@ export const VALID_AIRDROP_CATEGORIES = [
 export enum AirdropStatus {
   NotStarted = 'Not Started',
   Ongoing = 'Ongoing',
+  NotCounted = 'Not Counted',
   Counted = 'Counted',
   Cliff = 'Cliff',
   Vesting = 'Vesting',
@@ -34,7 +35,7 @@ export enum AirdropStatus {
 
 export const AIRDROP_CATEGORY_STATUS: Record<string, AirdropStatus> = {
   'Discord Events': AirdropStatus.Ongoing,
-  'Testnet Tasks': AirdropStatus.Ongoing,
+  'Testnet Tasks': AirdropStatus.NotCounted,
   Communities: AirdropStatus.NotStarted,
   Fairdrop: AirdropStatus.NotStarted,
 };
