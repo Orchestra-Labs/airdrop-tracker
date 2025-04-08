@@ -134,6 +134,20 @@ export default {
           'scrollbar-width': 'none', // Firefox
           '-ms-overflow-style': 'none', // IE and Edge
         },
+        '.scrollbar-blue': {
+          '&::-webkit-scrollbar': {
+            width: '2px',
+            height: '6px',
+          },
+          '&::-webkit-scrollbar-thumb': {
+            backgroundColor: '#43ADD6',
+            borderRadius: '3px',
+          },
+          '&::-webkit-scrollbar-track': {
+            backgroundColor: 'transparent',
+          },
+          'scrollbar-color': '#43ADD6 transparent', // Firefox
+        },
       });
     }),
   ],

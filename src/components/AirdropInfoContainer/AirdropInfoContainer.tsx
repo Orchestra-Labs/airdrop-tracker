@@ -157,7 +157,7 @@ export const AirdropInfoContainer = () => {
             </Table>
 
             {/* Scrollable Body Table */}
-            <div className="max-h-[96px] overflow-y-auto w-full">
+            <div className="max-h-[96px] overflow-y-auto w-full scrollbar-blue">
               <Table className="table-fixed w-full text-sm text-gray-300">
                 <TableBody>
                   {viewTopRecipients
