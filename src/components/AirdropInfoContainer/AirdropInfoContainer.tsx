@@ -89,7 +89,7 @@ export const AirdropInfoContainer = () => {
   };
 
   return (
-    <Card className="w-full max-w-[400px] bg-black backdrop-blur-xl relative">
+    <Card className="w-full max-w-[440px] bg-black backdrop-blur-xl relative">
       <CardHeader
         className={`flex flex-col items-center gap-2 ${!viewTopRecipients && 'pb-0'}`}
       >
@@ -137,7 +137,7 @@ export const AirdropInfoContainer = () => {
                       <TableHead className="w-[5%] text-white text-center">
                         #
                       </TableHead>
-                      <TableHead className="w-[65%] text-white">
+                      <TableHead className="w-[65%] text-white pl-12">
                         Address
                       </TableHead>
                       <TableHead className="w-[30%] text-white text-right">
