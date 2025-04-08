@@ -3,6 +3,7 @@ import { AirdropEntry, VALID_AIRDROP_CATEGORIES } from './types';
 type AirdropRecipients = Record<string, AirdropEntry[]>;
 const airdropRecipients: AirdropRecipients = {};
 
+// TODO: Discord events entries recorded at https://docs.google.com/spreadsheets/d/1_Oz5fIKslbozCbYeU0vMWCi9vpbjoI8ClUr_OIZM-I0/edit?gid=372520803#gid=372520803
 const airdropArray = [
   // TODO: remove first recipient here
   {
@@ -66,7 +67,8 @@ const airdropArray = [
     entries: [{ amount: 250, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
-    recipient: 'Rainchyy',
+    friendlyName: 'Rainchyy',
+    recipient: 'symphony1sn2nep7qhv6477v728zmhsd64ca8zu5zmngu5y',
     entries: [{ amount: 225, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
@@ -94,7 +96,8 @@ const airdropArray = [
     entries: [{ amount: 125, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
-    recipient: 'hamza2304',
+    friendlyName: 'hamza2304',
+    recipient: 'symphony1hlgpv7egtwg2xs52cvhazphdm8h4fhxrlv0dsk',
     entries: [{ amount: 150, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
