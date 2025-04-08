@@ -185,7 +185,10 @@ export const AirdropInfoContainer = () => {
                             {category}
                           </TableCell>
                           <TableCell className="text-right">
-                            {AIRDROP_CATEGORY_STATUS[category] === 'Not Started'
+                            {[
+                              AirdropStatus.NotStarted,
+                              AirdropStatus.NotCounted,
+                            ].includes(AIRDROP_CATEGORY_STATUS[category])
                               ? '-'
                               : categoryTotals[category].toLocaleString(
                                   'en-US',

@@ -25,8 +25,8 @@ export const VALID_AIRDROP_CATEGORIES = [
 
 export enum AirdropStatus {
   NotStarted = 'Not Started',
-  Ongoing = 'Ongoing',
   NotCounted = 'Not Counted',
+  Ongoing = 'Ongoing',
   Counted = 'Counted',
   Cliff = 'Cliff',
   Vesting = 'Vesting',
