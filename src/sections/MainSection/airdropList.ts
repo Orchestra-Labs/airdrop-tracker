@@ -48,7 +48,8 @@ const airdropArray = [
     entries: [{ amount: 2450, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
-    recipient: 'kycha | Solana ID',
+    friendlyName: 'kychame',
+    recipient: 'symphony1mzvhn757ycgn6e4hyr8pnwvjqfe5kgjvc8g452',
     entries: [{ amount: 375, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
@@ -107,7 +108,8 @@ const airdropArray = [
     entries: [{ amount: 125, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
-    recipient: 'alidargo08',
+    friendlyName: 'alidargo08',
+    recipient: 'symphony1alqu2n5kc7fax23v8yvhsvvmwwwsc0qh3l9ts7',
     entries: [{ amount: 125, denom: 'MLD', reason: 'Discord Events' }],
   },
 ];
