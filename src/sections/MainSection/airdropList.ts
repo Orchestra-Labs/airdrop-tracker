@@ -38,7 +38,7 @@ const airdropArray = [
   {
     friendlyName: 'dilay4235',
     recipient: 'symphony1znaj4lqyds2jsg9tpmwt59r0mxn85at4ss3gan',
-    entries: [{ amount: 125, denom: 'MLD', reason: 'Discord Events' }],
+    entries: [{ amount: 250, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
     recipient: 'vicactive',
