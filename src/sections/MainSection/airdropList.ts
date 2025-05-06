@@ -87,7 +87,7 @@ const airdropArray = [
   {
     friendlyName: 'taradora11',
     recipient: 'symphony1qk5lts8r9vfaedp042xlrhhga8zczpnyv9llkt',
-    entries: [{ amount: 975, denom: 'MLD', reason: 'Discord Events' }],
+    entries: [{ amount: 1475, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
     recipient: 'Chun | Orochi Network',
@@ -115,7 +115,7 @@ const airdropArray = [
   {
     friendlyName: 'alidargo08',
     recipient: 'symphony1alqu2n5kc7fax23v8yvhsvvmwwwsc0qh3l9ts7',
-    entries: [{ amount: 625, denom: 'MLD', reason: 'Discord Events' }],
+    entries: [{ amount: 1125, denom: 'MLD', reason: 'Discord Events' }],
   },
   {
     friendlyName: 'alidargo08',
