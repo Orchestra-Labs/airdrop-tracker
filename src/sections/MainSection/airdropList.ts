@@ -122,6 +122,11 @@ const airdropArray = [
     recipient: 'symphony1alqu2n5kc7fax23v8yvhsvvmwwwsc0qh3l9ts7',
     entries: [{ amount: 125, denom: 'MLD', reason: 'Discord Events' }],
   },
+  {
+    friendlyName: 'kseniya9753',
+    recipient: 'symphony1y5kflvms303ausemce2h3t2gkztvdfvwxmfsxf',
+    entries: [{ amount: 125, denom: 'MLD', reason: 'Discord Events' }],
+  },
 ];
 
 const isEntryValid = (entry: Omit<AirdropEntry, 'valid'>): boolean => {
