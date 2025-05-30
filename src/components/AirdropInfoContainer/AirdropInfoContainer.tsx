@@ -218,7 +218,7 @@ export const AirdropInfoContainer = () => {
           </div>
 
           <div className="flex justify-end mt-1">
-            <span className="text-white font-bold mr-2">Total Airdrop:</span>
+            <span className="text-white font-bold mr-2">Total To Date:</span>
             <span className="font-bold">
               {`${(viewTopRecipients
                 ? allRecipientsTotal
