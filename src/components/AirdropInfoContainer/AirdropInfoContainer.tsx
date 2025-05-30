@@ -75,8 +75,8 @@ export const AirdropInfoContainer = () => {
         .reduce((sum: number, entry: AirdropEntry) => sum + entry.amount, 0)
     : 0;
 
-  const topRecipientsTotal = topRecipients.reduce(
-    (sum: number, e: { amount: number }) => sum + e.amount,
+  const allRecipientsTotal = Object.values(totalsByRecipient).reduce(
+    (sum, amount) => sum + amount,
     0,
   );
 
@@ -218,12 +218,12 @@ export const AirdropInfoContainer = () => {
           </div>
 
           <div className="flex justify-end mt-1">
-            <span className="text-white font-bold mr-2">Total:</span>
+            <span className="text-white font-bold mr-2">Total Airdrop:</span>
             <span className="font-bold">
-              {(viewTopRecipients
-                ? topRecipientsTotal
+              {`${(viewTopRecipients
+                ? allRecipientsTotal
                 : recipientTotal
-              ).toLocaleString('en-US')}
+              ).toLocaleString('en-US')} MLD`}
             </span>
           </div>
         </div>
