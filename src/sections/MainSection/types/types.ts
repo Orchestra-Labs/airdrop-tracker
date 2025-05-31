@@ -35,7 +35,7 @@ export enum AirdropStatus {
 
 export const AIRDROP_CATEGORY_STATUS: Record<string, AirdropStatus> = {
   'Discord Events': AirdropStatus.Ongoing,
-  'Testnet Tasks': AirdropStatus.NotCounted,
+  'Testnet Tasks': AirdropStatus.Counted,
   Communities: AirdropStatus.NotStarted,
   Fairdrop: AirdropStatus.NotStarted,
 };
