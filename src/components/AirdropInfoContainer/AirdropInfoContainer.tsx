@@ -202,7 +202,8 @@ export const AirdropInfoContainer = () => {
                                   ? 'text-success'
                                   : AIRDROP_CATEGORY_STATUS[category] ===
                                         AirdropStatus.NotStarted ||
-                                      AirdropStatus.NotCounted
+                                      AIRDROP_CATEGORY_STATUS[category] ===
+                                        AirdropStatus.NotCounted
                                     ? 'text-warning'
                                     : 'text-white'
                               }`}
