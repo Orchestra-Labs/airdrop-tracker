@@ -1,5 +1,16 @@
 [
   {
+    "recipient": "symphony14jz5ppgxl0mhvpmkmtm5fr75vz24p752m5mqqe",
+    "entries": [
+      {
+        "amount": 100,
+        "denom": "MLD",
+        "reason": "Discord Events"
+      },
+      { "amount": 75, "denom": "MLD", "reason": "Testnet Tasks" }
+    ]
+  },
+  {
     "friendlyName": "Raven",
     "recipient": "symphony1hel9md4mwxtwfrjjna60fwynfuqe55avw4mask",
     "entries": [
@@ -12,6 +23,17 @@
         "amount": 10000,
         "denom": "MLD",
         "reason": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "friendlyName": "baekjingan69",
+    "recipient": "",
+    "entries": [
+      {
+        "amount": 265,
+        "denom": "MLD",
+        "reason": "Discord Events"
       }
     ]
   },
