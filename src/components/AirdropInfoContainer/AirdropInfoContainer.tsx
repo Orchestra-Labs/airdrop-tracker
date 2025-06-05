@@ -30,25 +30,26 @@ import {
 type CategoryTotals = Record<string, number>;
 
 export const AirdropInfoContainer = () => {
-  const { username, address } = useChain(defaultChainName);
+  const { connect, isWalletConnected, username, address } = useChain(defaultChainName);
   const { toast } = useToast();
-  const [viewTopRecipients, setViewTopRecipients] = useState(false);
 
-  const { address: sendAddress } = useChain(defaultChainName);
+  const [viewTopRecipients, setViewTopRecipients] = useState(true);
 
-  // Look up the airdrop entries for the sendAddress
-  const airdropInfo = sendAddress
-    ? airdropRecipients[sendAddress] ?? null
-    : null;
+  const copyToClipboard = (addr: string) => {
+    navigator.clipboard.writeText(addr);
+    toast({
+      title: `Copied to clipboard!`,
+      description: `Address ${truncateString(walletPrefix, addr)} copied.`,
+    });
+  };
 
+  // Top 10 calculation
   const totalsByRecipient: Record<string, number> = {};
 
   Object.entries(airdropRecipients).forEach(([recipient, entries]) => {
     const total = entries
-      .filter(
-        entry => entry.valid && VALID_AIRDROP_CATEGORIES.includes(entry.reason),
-      )
-      .reduce((sum, entry) => sum + entry.amount, 0);
+      .filter(e => e.valid && VALID_AIRDROP_CATEGORIES.includes(e.reason))
+      .reduce((sum, e) => sum + e.amount, 0);
 
     if (total > 0) {
       totalsByRecipient[recipient] = total;
@@ -60,152 +61,115 @@ export const AirdropInfoContainer = () => {
     .slice(0, 10)
     .map(([recipient, amount]) => ({ recipient, amount }));
 
+  const airdropInfo = address ? airdropRecipients[address] ?? null : null;
   const categoryTotals: CategoryTotals = {};
+
   VALID_AIRDROP_CATEGORIES.forEach(category => {
     categoryTotals[category] = airdropInfo
       ? airdropInfo
-          .filter(entry => entry.valid && entry.reason === category)
-          .reduce((sum: number, entry: AirdropEntry) => sum + entry.amount, 0)
+          .filter(e => e.valid && e.reason === category)
+          .reduce((sum, e) => sum + e.amount, 0)
       : 0;
   });
 
   const recipientTotal = airdropInfo
-    ? airdropInfo
-        .filter(entry => entry.valid)
-        .reduce((sum: number, entry: AirdropEntry) => sum + entry.amount, 0)
+    ? airdropInfo.filter(e => e.valid).reduce((sum, e) => sum + e.amount, 0)
     : 0;
-
-  const allRecipientsTotal = Object.values(totalsByRecipient).reduce(
-    (sum, amount) => sum + amount,
-    0,
-  );
-
-  const copyToClipboard = (address: string) => {
-    navigator.clipboard.writeText(address);
-    toast({
-      title: `Copied to clipboard!`,
-      description: `Address ${truncateString(walletPrefix, address)} has been copied.`,
-    });
-  };
 
   return (
     <Card className="w-full max-w-[440px] bg-black backdrop-blur-xl relative">
-      <CardHeader
-        className={`flex flex-col items-center gap-2 ${!viewTopRecipients && 'pb-0'}`}
-      >
-        <div className="w-full flex justify-end">
-          <Button
-            size="sm"
-            variant="outline"
-            className="text-xs text-white border-white"
-            onClick={() => setViewTopRecipients(prev => !prev)}
-          >
-            {viewTopRecipients ? 'View My Info' : 'View Top 10'}
-          </Button>
-        </div>
-        <CardTitle className="text-center">
-          {viewTopRecipients
-            ? '🏆 Top 10 Airdrop Recipients'
-            : `Wallet: ${username}`}
-          {!viewTopRecipients && (
-            <CardDescription
-              className="hover:bg-blue-hover hover:cursor-pointer p-2 rounded-md text-center"
-              onClick={() => copyToClipboard((address || '').toString())}
-            >
-              {address}
-            </CardDescription>
-          )}
-        </CardTitle>
+      <CardHeader className="flex flex-col items-center gap-2 pb-0">
+        <CardTitle className="text-center">🏆 Top 10 Airdrop Recipients</CardTitle>
       </CardHeader>
 
       <CardContent>
         <div className="flex flex-col gap-4 text-white font-medium px-4 pt-2">
-          {!viewTopRecipients && airdropInfo && (
-            <div className="text-center">
-              🎁 You are eligible for{' '}
-              <span className="text-green-400">{recipientTotal}</span> MLD
-            </div>
-          )}
-
+          {/* Top 10 Table */}
           <div className="relative border border-white/10 rounded-md">
-            {/* Header Table */}
             <Table className="table-fixed w-full text-sm text-gray-300">
               <TableHeader className="bg-black border-b border-white/10">
                 <TableRow>
-                  {viewTopRecipients ? (
-                    <>
-                      <TableHead className="w-[5%] text-white text-center">
-                        #
-                      </TableHead>
-                      <TableHead className="w-[65%] text-white pl-12">
-                        Address
-                      </TableHead>
-                      <TableHead className="w-[30%] text-white text-right">
-                        Amount
-                      </TableHead>
-                    </>
-                  ) : (
-                    <>
-                      <TableHead className="w-[40%] text-white">
-                        Category
-                      </TableHead>
-                      <TableHead className="w-[30%] text-white text-right">
-                        Airdrop
-                      </TableHead>
-                      <TableHead className="w-[30%] text-white text-right">
-                        Status
-                      </TableHead>
-                    </>
-                  )}
+                  <TableHead className="w-[5%] text-white text-center">#</TableHead>
+                  <TableHead className="w-[65%] text-white pl-12">Address</TableHead>
+                  <TableHead className="w-[30%] text-white text-right">Amount</TableHead>
                 </TableRow>
               </TableHeader>
+              <TableBody>
+                {topRecipients.map((entry, index) => (
+                  <TableRow key={`${entry.recipient}-${index}`}>
+                    <TableCell className="text-white text-center">{index + 1}</TableCell>
+                    <TableCell
+                      className="truncate text-white hover:cursor-pointer hover:underline"
+                      onClick={() => copyToClipboard(entry.recipient)}
+                    >
+                      {truncateString(walletPrefix, entry.recipient)}
+                    </TableCell>
+                    <TableCell className="text-right text-green-400">
+                      {entry.amount.toLocaleString('en-US')}
+                    </TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
             </Table>
+          </div>
 
-            {/* Scrollable Body Table */}
-            <div className="max-h-[96px] overflow-y-auto w-full scrollbar-blue">
-              <Table className="table-fixed w-full text-sm text-gray-300">
-                <TableBody>
-                  {viewTopRecipients
-                    ? topRecipients.map((entry, index) => (
-                        <TableRow key={`${entry.recipient}-${index}`}>
-                          <TableCell className="w-[5%] text-white text-center">
-                            {index + 1}
-                          </TableCell>
-                          <TableCell className="w-[65%] truncate text-white">
-                            {truncateString(walletPrefix, entry.recipient)}
-                          </TableCell>
-                          <TableCell className="w-[30%] text-right text-green-400">
-                            {entry.amount.toLocaleString('en-US')}
-                          </TableCell>
-                        </TableRow>
-                      ))
-                    : VALID_AIRDROP_CATEGORIES.map(category => (
+          {/* If wallet is not connected, show connect button */}
+          {!isWalletConnected && (
+            <div className="flex justify-center mt-4">
+              <Button variant="outline" onClick={() => connect()}>
+                Connect Wallet to View Your Airdrop
+              </Button>
+            </div>
+          )}
+
+          {/* If wallet is connected, show user info */}
+          {isWalletConnected && airdropInfo && (
+            <>
+              <div className="mt-6 border-t border-white/10 pt-4">
+                <CardTitle className="text-center">Wallet: {username}</CardTitle>
+                <CardDescription
+                  className="hover:bg-blue-hover hover:cursor-pointer p-2 rounded-md text-center"
+                  onClick={() => copyToClipboard(address ?? '')}
+                >
+                  {address}
+                </CardDescription>
+
+                <div className="text-center mt-2">
+                  🎁 You are eligible for{' '}
+                  <span className="text-green-400">{recipientTotal}</span> MLD
+                </div>
+
+                {/* Personal table */}
+                <div className="mt-4 border border-white/10 rounded-md">
+                  <Table className="table-fixed w-full text-sm text-gray-300">
+                    <TableHeader className="bg-black border-b border-white/10">
+                      <TableRow>
+                        <TableHead className="text-white">Category</TableHead>
+                        <TableHead className="text-white text-right">Airdrop</TableHead>
+                        <TableHead className="text-white text-right">Status</TableHead>
+                      </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                      {VALID_AIRDROP_CATEGORIES.map(category => (
                         <TableRow key={category}>
-                          <TableCell className="text-white text-left">
-                            {category}
-                          </TableCell>
+                          <TableCell className="text-left text-white">{category}</TableCell>
                           <TableCell className="text-right">
                             {[
                               AirdropStatus.NotStarted,
                               AirdropStatus.NotCounted,
                             ].includes(AIRDROP_CATEGORY_STATUS[category])
                               ? '-'
-                              : categoryTotals[category].toLocaleString(
-                                  'en-US',
-                                )}
+                              : categoryTotals[category].toLocaleString('en-US')}
                           </TableCell>
                           <TableCell className="text-right">
                             <span
                               className={`${
-                                AIRDROP_CATEGORY_STATUS[category] ===
-                                AirdropStatus.Ongoing
+                                AIRDROP_CATEGORY_STATUS[category] === AirdropStatus.Ongoing
                                   ? 'text-success'
-                                  : AIRDROP_CATEGORY_STATUS[category] ===
-                                        AirdropStatus.NotStarted ||
-                                      AIRDROP_CATEGORY_STATUS[category] ===
-                                        AirdropStatus.NotCounted
-                                    ? 'text-warning'
-                                    : 'text-white'
+                                  : AIRDROP_CATEGORY_STATUS[category] === AirdropStatus.NotStarted ||
+                                    AIRDROP_CATEGORY_STATUS[category] === AirdropStatus.NotCounted
+                                  ? 'text-warning'
+                                  : 'text-white'
                               }`}
                             >
                               {AIRDROP_CATEGORY_STATUS[category]}
@@ -213,20 +177,12 @@ export const AirdropInfoContainer = () => {
                           </TableCell>
                         </TableRow>
                       ))}
-                </TableBody>
-              </Table>
-            </div>
-          </div>
-
-          <div className="flex justify-end mt-1">
-            <span className="text-white font-bold mr-2">Total To Date:</span>
-            <span className="font-bold">
-              {`${(viewTopRecipients
-                ? allRecipientsTotal
-                : recipientTotal
-              ).toLocaleString('en-US')} MLD`}
-            </span>
-          </div>
+                    </TableBody>
+                  </Table>
+                </div>
+              </div>
+            </>
+          )}
         </div>
       </CardContent>
     </Card>
