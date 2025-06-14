@@ -19,7 +19,9 @@ export const TopRecipientsTable = ({ topRecipients }: Props) => (
       <TableHeader className="bg-black border-b border-white/10">
         <TableRow>
           <TableHead className="w-[5%] text-white text-center">#</TableHead>
-          <TableHead className="w-[65%] text-white pl-12">Address</TableHead>
+          <TableHead className="w-[65%] text-white text-left pl-12">
+            Address
+          </TableHead>
           <TableHead className="w-[30%] text-white text-right">
             Amount
           </TableHead>
@@ -31,13 +33,13 @@ export const TopRecipientsTable = ({ topRecipients }: Props) => (
         <TableBody>
           {topRecipients.map((entry, index) => (
             <TableRow key={`${entry.recipient}-${index}`}>
-              <TableCell className="text-center text-white">
+              <TableCell className="w-[5%] text-center text-white">
                 {index + 1}
               </TableCell>
-              <TableCell className="truncate text-white">
+              <TableCell className="w-[65%] truncate text-white text-left pl-12">
                 {truncateString(walletPrefix, entry.recipient)}
               </TableCell>
-              <TableCell className="text-right text-green-400">
+              <TableCell className="w-[30%] text-right text-green-400">
                 {entry.amount.toLocaleString('en-US')}
               </TableCell>
             </TableRow>

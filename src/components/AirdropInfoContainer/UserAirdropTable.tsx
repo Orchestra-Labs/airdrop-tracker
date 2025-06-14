@@ -21,11 +21,13 @@ export const UserAirdropTable = ({ categoryTotals }: Props) => (
     <Table className="table-fixed w-full text-sm text-gray-300">
       <TableHeader className="bg-black border-b border-white/10">
         <TableRow>
-          <TableHead className="w-[40%] text-white">Category</TableHead>
-          <TableHead className="w-[30%] text-white text-right">
+          <TableHead className="w-[35%] text-white text-left">
+            Category
+          </TableHead>
+          <TableHead className="w-[40%] text-white text-left pl-12">
             Airdrop
           </TableHead>
-          <TableHead className="w-[30%] text-white text-right">
+          <TableHead className="w-[25%] text-white text-right">
             Status
           </TableHead>
         </TableRow>
@@ -36,15 +38,17 @@ export const UserAirdropTable = ({ categoryTotals }: Props) => (
         <TableBody>
           {VALID_AIRDROP_CATEGORIES.map(category => (
             <TableRow key={category}>
-              <TableCell className="text-white">{category}</TableCell>
-              <TableCell className="text-right">
+              <TableCell className="w-[35%] text-white text-left">
+                {category}
+              </TableCell>
+              <TableCell className="w-[40%] text-left pl-12">
                 {[AirdropStatus.NotStarted, AirdropStatus.NotCounted].includes(
                   AIRDROP_CATEGORY_STATUS[category],
                 )
                   ? '-'
                   : categoryTotals[category].toLocaleString('en-US')}
               </TableCell>
-              <TableCell className="text-right">
+              <TableCell className="w-[25%] text-right">
                 <span
                   className={`${
                     AIRDROP_CATEGORY_STATUS[category] === AirdropStatus.Ongoing
