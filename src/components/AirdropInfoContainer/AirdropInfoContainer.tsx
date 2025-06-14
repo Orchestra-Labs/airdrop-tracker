@@ -34,13 +34,22 @@ export const AirdropInfoContainer = () => {
     : null;
 
   const totalsByRecipient: Record<string, number> = {};
+  let allRecipientsTotal = 0;
+
   Object.entries(airdropRecipients).forEach(([recipient, entries]) => {
     const total = entries
       .filter(
-        entry => entry.valid && VALID_AIRDROP_CATEGORIES.includes(entry.reason),
+        entry =>
+          entry.valid && VALID_AIRDROP_CATEGORIES.includes(entry.category),
       )
       .reduce((sum, entry) => sum + entry.amount, 0);
-    if (total > 0) totalsByRecipient[recipient] = total;
+
+    if (total > 0) {
+      allRecipientsTotal += total;
+      if (recipient !== 'unclaimed') {
+        totalsByRecipient[recipient] = total;
+      }
+    }
   });
 
   const topRecipients = Object.entries(totalsByRecipient)
@@ -52,7 +61,7 @@ export const AirdropInfoContainer = () => {
   VALID_AIRDROP_CATEGORIES.forEach(category => {
     categoryTotals[category] = airdropInfo
       ? airdropInfo
-          .filter(entry => entry.valid && entry.reason === category)
+          .filter(entry => entry.valid && entry.category === category)
           .reduce((sum: number, entry: AirdropEntry) => sum + entry.amount, 0)
       : 0;
   });
@@ -62,11 +71,6 @@ export const AirdropInfoContainer = () => {
         .filter(entry => entry.valid)
         .reduce((sum: number, entry: AirdropEntry) => sum + entry.amount, 0)
     : 0;
-
-  const allRecipientsTotal = Object.values(totalsByRecipient).reduce(
-    (sum, amount) => sum + amount,
-    0,
-  );
 
   const copyToClipboard = (addr: string) => {
     navigator.clipboard.writeText(addr);

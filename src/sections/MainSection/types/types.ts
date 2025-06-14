@@ -10,7 +10,7 @@ export interface Asset {
 export interface AirdropEntry {
   amount: number;
   denom: string;
-  reason: string;
+  category: string;
   valid: boolean;
 }
 

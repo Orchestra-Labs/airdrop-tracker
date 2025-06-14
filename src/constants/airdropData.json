@@ -1,45 +1,12 @@
 [
   {
-    "recipient": "symphony1ugf25wya496ws8638w6750wjj2qmdh4c3egp38",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 5320.68,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1mr9dqtwmt3l8ns37dcctmeunznu20h2rmacmk0",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qm8ttsqm99uucnjqg7h2qzlrl6rxcay7x7pyw5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1mvk8603ksv5spt9epgruemcqdh3qruzex4nnv5",
+    "recipient": "symphony1lkdhkt0vq5cwtt4khe90ur4cnjetutz3h42pwd",
     "discord_id": "",
     "entries": [
       {
         "amount": 331.44,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -50,2935 +17,7 @@
       {
         "amount": 331.44,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17egakd4y82kj7ttd77ew9akyxr78q9f43r548x",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony169c43lj2g43as5dkxeljvp8acgxgx7wxu7gwpr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nsv3h9dhtxp0alazmvjcddye203lfe6jtzdu6e",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1z4wsygw8ntccdp4mmdhpyzrd93w0kl9r34dv66",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1j3rxeu60vgmqklttjk43uz9tf2zw4a8e4zejk2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1udnzzdhhvxc4zfxyn0hx3r5kdu3xgq2el0pueg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ha82lhrtex4x5le4jra57du8hnw7rmw3u0p2nc",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4305.05,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1yh8df7p3wlltqxfv4k7q49sgx84sa90hl36p2j",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18fltum8llunux5lyqrcr9l37def82cpzvmuj7p",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4967.19,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1p0c535h66vclvnw33fvcz2emze6248c8q2ld2h",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1898.25,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xdfa534gu4pv8zqzcrkdk50729s26c6hwmyx9u",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4989.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1gvdrunjdvehy96sd4ndfpwg5p75swr6kkl9gka",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1j07jj7wjvmr49rr47netevjcmqyzd8pudedzq9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1699.82,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1fs0ke5aqxuzwczzj4ks4h4fr2shjzcguvlxmg2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xw4qqyffdf20hna33egl97wrzy0j4qujz50cve",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1u62ksu6vl4nke79hzvgv78jm4vav783zk0sm70",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1904h4pkdezcm7xcxrcum7cckr4wel3kawrvh6c",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1876.2,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1rw6v0t6amwcz3dnur7szqvkl23qqgrw5yph6qw",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 44.09,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dsyc939h0shyzu7lw56mg30f0xn0yz0evcq5zm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15uqwrx9ukc6weq7c67qdszxx0ss9vhcgdl3g6t",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qpr7sggum75f948hj9ykamn9y77un9nkednkpr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1jsgr0aw2peuxdf0n86r9c8qeawv04q4zgyhmlv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 9228.14,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18lpzdk3z0f487up8qkav6vg35fq64y9purgdzr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1pfcldpdj62zdz3gs52rf2gfpclf9tuuu9vmyqm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1sfnwzn86azh6f33wt7eh4au639hea96lmrcrf2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dqwla3w8gmxrcpr8482d2f4wh6aayyty04lq63",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony16ku52kfy555tt36ycxmyy02hs720xvxguqk89c",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 5231.76,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1wkclqpz9ruuyq9esdw8l20k60d2qg3hj0rwgll",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1t2xl92qmc6lppkn6ys4qryjzrj5jwhjwhgqxd0",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1015.63,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony16secwppnu2724ts4r94w8tweg27gdycn9gn5sa",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony12zuzgdelhj2clzq6x7lc7fua485s55phfts7fq",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 154.33,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1wv5a4quvyg7rugg99wj9l2n8ardg6ccy8ljcj9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1v0xjkkchxv2su584tjm89mxvmsfh2yg3hw673d",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 7484.22,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ssqqx30dy372wqcf3y36wux92swcll2gd2m38y",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1w3anj8nxqfa9566py5vy5xazuwpvs89r9kqm7d",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 441.68,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1z4yl0zplnjujxfs3yx9euh9mqrhay342vjtwj7",
-    "discord_id": "saadudin06",
-    "entries": [
-      {
-        "amount": 9073.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 625,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1x7n45ayc3hvgjmvmy0mgvaamfq79fcddu2kk38",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony10ns6fccrf7zdmmdsehrgng7grmqc2let8afw0t",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ej5fjnxlg8euu34vch9u5rftz50v46ly7v8pmh",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4083.84,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1twamhf5tkf2glcjzu5zfm248l5e74crn6udah8",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1f9v2zr08heg520zyq5luklats2rxx4tavqww3a",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ejvyzku2upg0q5a6n9nd9cwa29a830hevnrt5k",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1jqye4xfaflynsmr0ttuzzz37vcuwmuk85475na",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1876.2,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1gu3v7mty89lp5w42fzw4vkcs3g68ydklfsvv26",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zfqczj74yacl03azq0r6fvrwcz5p3xdg4sf8wf",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1p6c63p06fqtlj2t3vzv83ajt8e6xlv7gj7uf8k",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ujv2gmfwrwzj504ntggqld0q5euafp76qx3e0d",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1214.06,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1vurdg72kfuxdcj2yspx0n7kn5sl6uu3e7ped8y",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 9426.57,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1vskrppekdtwz3lhaqkaxswrrmr54ekltf0j67e",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4525.52,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qaqzsyua59mx8vw6xzrnw6wftdp57revxnffdm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1h6mt0vjfcy9x6euaddcrjs9p2m290f3e86k6yd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony180j5p0ged2w8v90turmaauyuf9lu407cc0886l",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1tsw98vrs7hssq403xwczaxf472ndylggsupx29",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 971.54,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1x2xuzqlsnxpmg6p79sdpp6955a2z468lvn4wm5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1yc9lmxasq7yhh9uec7vd8krug98ja9jm6gm6vp",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1stlklws64a7lmrljk7y30v33wzzpjw3mpp787u",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 5011.29,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1r5m978tlcuuuvmaw6xqdj2k2qpv5myxw4xeay2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony169pkmuffdpwm8dfrefc2tcsvhyv74x8rljuhxj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony12flun6nedtqktkttpmd8y44m05sjk6wlxe2qzf",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ryvz2c0n847lp5n2q6kr8jwq7wz9zjcz2cnmfr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1mnc7zcxmx07dftsgmz0jry34q2u0ddlcyacnn2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ljmp5pmtccdm52sqh2wlp6rpt02qazcl429zck",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 6335.58,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18072jntzuxvkahpvqxumrzw0pdv0lyfcwv08ts",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1uvmtexcq5cj7a2alsmwtp9pj29lp3s45xdf9vk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1214.06,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1szrs84jdtpfz20pcjle5vskwsrxj2l80ky7874",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1t83nyfq3hsjqlwj6vq3jx5y59el7uxfkrg7q0d",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4127.93,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony128730dh0229kvjqen05jktkese27knx4wyxasa",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1glsn2ly7cgku5qgxt9aaepfydq9xlsaa6em8p0",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3201.23,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xw24v52sw468z8qan7vt9vhzt9qegu4yzrgslg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1p758gkqucexdh5fennt56d7rtf4ushgvrqj00e",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1vk9nsxwhvprq55lmu999yazljgd3zucew48c7w",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1kygdt9ndlvea7lxewvw09qp583r7w9tacldm6j",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15tfc20rxtg00y26fdlqx7suvlmcrkwccxk8qy4",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ljd6d8quzfn4zev99unxnz5x89frev3vgvnxu0",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1pwpz0acvw0mc0clr4kknedt94efhwzj87cal8z",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xe5x8u4hlxq2mewymwdet6e8j7g0jf86hjrk96",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4790.81,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1tdynjaasvdj3vza5flrqxq5uedn0fwyuvlkcxu",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2561.13,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony19u4hh3npqh3y2df7dvsd76prlt6zkyk37cn4lu",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18let4c8elvpy0s4myp3kngv6j0ppdhgflxsuwh",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1f44qd2yw4f007dqddltptaqyqly9qs052l99c9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1jl4nujanxkkrgsngqlfr8kkduhmz8tu55m7v32",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1hdrvlmrpx44w5ew9xmmc0hwfdnqvn5zrw7e9ge",
-    "discord_id": "need_jp",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ph402ry55q8ravgl2a9z4zctvrcmz00vj2csna",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 662.15,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony19q8mf468t55ytcwucjaz7rzyr7hx82gczmr0rg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1rtyehaur9xyjrk4kr8yvvyp7k9vm8jl5rfaqu3",
-    "discord_id": "ifan_2000",
-    "entries": [
-      {
-        "amount": 10000,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 250,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dsnfjekjj23vtuemd8as5jmtf99ql5yhrthmwd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony12mt55lfsyhkdjnel47n8f4pvdd39cr5ndyc8h3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ww5g5sdpsfp9xg4ln0rcyzzx4jjp0x0vfaunes",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nk2u8x2t369sa9a6wm90t653pzvkfhe04s8plj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4305.05,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1733mnldhfrg8srd6rjwy3smajmf87j57xs6xhv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18500v6jlrccv99n74cf7g3tc3xzxtw7hl6ecr8",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4305.05,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1pc0hyuwxyy63phpgh6ewau05ues7njhqa69zdm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1g97we496ef0mt39jse82r67lmy2l7hw6e2a6j6",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1479.35,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1gm7hgy2slxyrh2tr3ck6agae45rm3fd5l3563f",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1klq8rmvx44azuy3ap44w6m7smkzku7e46xv9jc",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qfen22dta3qmlvusq2jkryyhkffap7tk8werjj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 375.53,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony144gmfeuqepd42mhdxe70tkhz4ufdh8ptstnns5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qp09a06dd4y33mgzgx2pachqqu6qcw7lycyjav",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ey6fkh5w8rylvdfujxaa66mraz9dv7egce07wk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 5938.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1uadrqgsq6p9p84k0erqaq9h9s7q2trqlfnhnse",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18d7jpa5q6we96gluuc767cacxzgq92xq62f9xj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1973qhhswmsf0y99h88t40v7ecgzqhs6rgdtptt",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony19u2zryzza93v8p7ms997rrq4hsz7r34937706a",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3201.23,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony109f3y2z0q5ltv6ga3psr6sua8hgf5ndeywtuwv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xmv9u389awdw6qpvekwsnkv7zvlyh3qmcctp8m",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qk5lts8r9vfaedp042xlrhhga8zczpnyv9llkt",
-    "discord_id": "baekjingan69",
-    "entries": [
-      {
-        "amount": 10000,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 2290,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nw97tyt5eslcsexev2wk5x9fqnth92tvazyupx",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2361.97,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15dq3mzgs6j2xp5f250qjrtgwlxxd98almwsdqm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony13sckumjm0panepsln5zkg3ypah57uvhnq0krs9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1keaeu3wellxk2hzf3x3hx6dk5c0psh0tqhw4x2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ma7clkje2gc60mhj899p3mem3s5g0uflxsgf5d",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dpy72pqepeagpgs9x4uv8dj4040a0t8cpchp5v",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 44.09,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1memcf6sqd00h6yzf0e8e8e707tjmszpdhdn8jj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 353.49,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1th6lcvxuzsagr6h7gk0sfdswz363cm8wmsy7ud",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony16pu0enfnhfu9sz2rk0duj902kj345f6kpc56hk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1yg7mapv3q0sqhggew76e82ham9yh6md4t5z2lf",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony13g9cf2dsjqf3342pwf46rc7v6vmteehd6uf3fe",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1a9zmhn5ycxtz6h0x3f50cy2tdcve335dv4uej7",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1tycyyf6vnfeypaklt2vhmlp28l9kh8keyk6ufr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony19nv5qcd5tsm6k6s4vz3an4sreswynavj6g4nmw",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony12l0uk9tcsu4yumdeajtt3lm44whu9dtur0jfjh",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1esh7f7vkeusw76kqmxugagpv92vrxll3x5azxv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4525.52,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nhfhxk692c9svf0th9ktlpsfsr6askcr8fs2xv",
-    "discord_id": "vinjan.",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1accd93r8rqtffzqwlfpatmzgx8vqvt7aangf7y",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2759.55,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nzmazmhqmatpf3kag7mpvzwrwpxp744xw3e0we",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1vweuyd98pe0hzuajps9calajnds29sqf3tnagn",
-    "discord_id": "rayredd",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony126nhsd8nuyjq6cf64d3nvh4d4j3nae467vepey",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ty2kn7vzwnx3yzzltrkptlqmuykjk7aa5we2yr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17gq57ef88jdhf529uel4zxrd0z30nae2w3wc2t",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dre7g6dchg4r0z5ga05p54djxus8lv45vw6c73",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1z40wdka2x3cvhwahuaa8u3mrfj0sfkvkpka8jp",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1emqzfcz5hezpg3z6ueqkptadpyx5qfujlzq2v3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1cs0ysv4l5rk6h3tayrza4x9lphk8dpjvy632qs",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4349.14,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1jvkmh2yyctlfqhu6uxu6r526ervjdljn4sr5nx",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dkjr3vey927m9r8cnlteg5cfzxqjxgxld9ftak",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony16v23a56268xf2whl6pf35epe9qh5vyntut72pa",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1z5x07m62laz6thm8quanqgvg42gz99s8j4w0ee",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1m57fgag9w4yafqljpdm6n92a6qxd93dxunfw6g",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dmy4llh63aq6uzm2war2uyuvnq3u8x23mjpy9s",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 10000,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15zt6l9jfeuajw6xhkef3vrtdsc43sfcwpxjp5j",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4349.14,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zvj8cj4npfeujc7l6f2jvx55aqsqlmcvv84sen",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qn5zfa58ty52sklw3vfsv62mk3g3sk57uhgr4d",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15symeacww630s6xd9zx7uyxecrzr7zy5qr9gh5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1z9h73gvsp3auv4tcglua68vslnvucf99wl4ryk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4083.84,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ldg6m46nw06gntnnxq6llju42ffw0cn92qav25",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 6578.83,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony146y7j2k96unezwpsclj40q3ncsyxcgwy8cvwkg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 154.33,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1a6mjc0nzrpzdr94s7hffthuscehy96h82q0v5m",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony10mkczsrf8snhdhazkf7lav2hjdctyupvyyagqy",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17y7hktnsfle6vqdyv04q5klk4e9qzys5hjuj0t",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1f2lqzwx5h08xx75jyqf608cquyj6ajudsh0f87",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1v8w8gmc4zahffmkdq3r8ha7nrptuhpcm6jcqzn",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1f3xnt2t6qtqlwcqu42elxncyenqglu9frn0tg2",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15wfhuz7gzac6l3selvjcur0w9rmdf6xmj25e7v",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1w3ra37zrqschmpn3mgk0nqrep7wdjvrvpq6z7a",
-    "discord_id": "hidayahhtaufik",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1hvv79e5jcgkjralhat7pgx7fkp4r5em95740w9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 7130.74,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony162x2llsxzxmavtyuxjesceewmy4wvrp7fa64n3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1aqx95mjppf9h60r62tsnjp4d3h7t492f3ggzcd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1mnllgglyvynflagp3a4qwsd6gxep5m675dc8r7",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1w7mp6ft6ns9hupmam4nd78940agf49ueqa9nan",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 6998.46,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1d68rccckj3zfgqayat5sexl6gvsrgy3xuxezd3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1876.2,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1sn2nep7qhv6477v728zmhsd64ca8zu5zmngu5y",
-    "discord_id": "rainchyy_",
-    "entries": [
-      {
-        "amount": 10000,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 225,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1utryxd8kyxn5gz0r4hyxy6w64glf4046fsat68",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zyanku896n49j2d4zgwfhgzgwr48euu3xdx2jp",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1214.06,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1paslvj6znkyhpca2lugvhlsxkqtepjxxhrw4dz",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nvn4sfc3r2d69c7v0j9v7ak87xepz9q567frvm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dqyav4ldrts5jelh8ymflnn99wnx0k4yzpkcg6",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3907.46,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1emfwgam7h760h7u357hrk4jftup78ta5v86dyr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ku8s5n82p7tmjrefn7yne4shcs9z5l57g42m8m",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3201.23,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zqp3e3jh2t0l6hyzavr2wzyvt5jzyqnd4g8cmm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4083.84,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony14sd8h6h7lt2j9ema55036wltjr0gmrm300mr98",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4083.84,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ddvn525qnecu7mnjh8fyce6vj3lvefhmteyd9e",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1lkdhkt0vq5cwtt4khe90ur4cnjetutz3h42pwd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15x809j67lhv02g8s59nk38qzjfekd6zd5rgweg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony126g40fw7trkuf4hhzwwett6wt9yhssysemy73k",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1tqk7jezzya5glkekk8kcm9fancvcxtcupv47hp",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1z9ltadgyhrqncq8e4m9f3klstxwuv035qwzlq3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1hel9md4mwxtwfrjjna60fwynfuqe55avw4mask",
-    "discord_id": ".ravensyndrome",
-    "entries": [
-      {
-        "amount": 8058.18,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 6150,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1t57tfp3ykhpf87ejaf5mwkn209vmhz9rtnahgz",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1neqprx4sd0xrs4snn2q9ccchg6ksva3pvg32sg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1etmgwdvzmmqgtqf3wyhjvvncr957tdy0k97wsy",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1uvs5m8ekhvaaz92zwwwttzm5eu8nfk0fdculkg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 8764.42,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1p6p0wwcgxj9alaj27f2ggzp7zsx307slzt0ps7",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nua62a9rpewvnw7rhs5l4vz2uvlrvd2ug6jt9e",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4746.72,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qgnpa7tv4j5mkqfyfpvrvwlzkfepn573qz2u3a",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17cjfay6kggl45xqagdv7p3qnqxha93v98u2wf6",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 6291.48,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1v2hsm69lhk33qt8qrm2pumqcwmfs0nr5d4x3zm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ewdttrv2ph7762egx4n2309h3m9r4z9puupqqm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1w42226482g2ykr7re67w5c9ucv6ssacx39t2eg",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xngnuhcqs06scc8muw3vnpa0zfvslnkgvng8w8",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qykpgnx9w9ezw45qqee3tywzzzn2zzlyjgl0jq",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony19xuw9jpgvnlyukyv5mz9387n6seuql7lc88y8g",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qaq7mr6r8k4h0yneeycdv06cqa659nnaphckfd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1agg40pllc6d6qnd57eu50rgmsqyc4vmset0307",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dsmnavqp0nfwjpjcyjypdy4fa9z8pv4v33rera",
-    "discord_id": "aksamlan",
-    "entries": [
-      {
-        "amount": 4746.72,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17nun6cg7a5xtu9fz2p8scxr7u9jmrf5vmvr392",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xt2zcdhdf02jx5csak4t25lygfn4rwg7qw4c64",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony196lyjqsz7thljsc0lgl28flgg3ssd34t2nqhpm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1876.2,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1l7jdfh5ze7dzzyextvvk445dr9wy43qsjnxwec",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4790.81,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ch20ap73dqudanw0ufhpn2jpvl6zayqe2qudqw",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1uhts830wkz8lm7txhjfpnttd2g29sq6z4cmrg9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18nuhl7svgrhjascux6vzwz9e564cjk5uk3s79z",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1erx7ua7upv20xfhhpcn7p5d639xtj49vz5qusw",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3686.99,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1a82nkg7d6x6l78rgl2urre6xx462arrhdxq2c3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1gjej6szndkuaadfsu4u8mhrul6qhyfrqq96ecs",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1fuvcqj8uw8mkysptlfgjjshvn60jvmhrh5fzj7",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1yp4ca4ekxdw30fvnzvxkv853r7ppf86epw486f",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1258.15,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18edf5rgrwm5wfhrmayy3n8jug34j5c84rpf85h",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony197hjscq0hdd0synnr6kp6vjnt6whhkhaw8a3z5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xpf42qf48tssgfu3crcq0eju4qfqe849qr7666",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 375.53,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1znaj4lqyds2jsg9tpmwt59r0mxn85at4ss3gan",
-    "discord_id": "dilay4235",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 250,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1h5n0g98fqsf9xluzw9k23nhqurmjyx3t8e673x",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4569.61,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1x6lk0x27572prmys8xfyxqmj4vv95narf3z7va",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3002.07,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1eywufmvkl4805stahfkdt0qetc3r0zvhrhz47w",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1876.2,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1062pqrt6z6w0nsp6t25ekxmgxx9dl03jv5y6ew",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1f4mxegd2s40jn8mlrrzyrzpvpu9vmyw9dsu9vk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 88.19,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1rw076zn8n5ht5femh52vycv7kkrj5yzds786rd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1x7zq97dvpcc846wfv8zac7qs5w0tvkkk2scsxw",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ew2du8s99wcnk4g3anwn07v7xpufhgmrm9hynt",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1kkfdxut9p7rrp7ac3lfxj9f75d5f8rse7225xv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1t8k0fqsn9u3vua26q03h6mjhnau8hmzwzphyr6",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zl5cxgxj5hmp4zk2thyql8xcxw9w7gn3udemaj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1214.06,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1tenuapf7j0g697px8pv4r7mne4hgw570lfwlu5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18trmku5jtmlhcx8l5hgq8wkcp2r8f9famkl7xz",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 264.56,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dfpz9jk8077xzz5uj53w65ngg4wa83su64jlau",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 596.0,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1wv4dj3ezx7mtnefxh9ggl73hzj5h0tzyg2v2jp",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony15mqpgel3535nyg00ywh7r90rzyj0mxjzjeudv5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2980.02,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1y95qr979v5qdmh4wllec8uejn0nqzj6ff4rnk6",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony16fls5curwmk4z7mwg93eejwj6hx6reqwl208ms",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 5187.66,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nv4vn7hq4ln32jpe0qw0vsv8mmkp9dur4gekjh",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3686.99,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1lm0kg3aex3fqxlk7feuft7dtvaqgfwmvy3z6jr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1alqu2n5kc7fax23v8yvhsvvmwwwsc0qh3l9ts7",
-    "discord_id": "alidargo08",
-    "entries": [
-      {
-        "amount": 10000,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      },
-      {
-        "amount": 1262,
-        "denom": "MLD",
-        "reason": "Discord Events"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1cjdxm4urpdp42un8xjsdx6469h3nlx26rewtrl",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 8410.93,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1f5wjkd6panvgdgxlmcm3n3tjvh7s9q39a4wqvd",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony13f7yv2s3etxwjw6k9pkfr3pm6j7h6kt6h3tgh3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony13yzucpdxakcupdvma7redx59rlj5p3kdspy4cq",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1h2ay8awsa26zftfyjdc2f2y00uywfqflkj7v92",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17awa733zt605tmth4gggfhdzsl26kr0vmlz723",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1hf05gnvyvnkst9856ju0z7tnttfe55ftevzj4g",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dfz6mp8ryqxpms45fpf5m80l83egyn5q8l3kdx",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1n58c2lw3t08w7yquas2ca4nvkaueqjum93lxsr",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17afy5z6whyawhkt56xuf9wtuw9n72ge2vunmn5",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1t2lvvmcd8md0umev6ntpd7vg866nd7fmt339pl",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony17chflyhjgglyg6ct727w8ta2f5w7qph0f3sg82",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2980.02,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zn2jappn7ssdp3asvyn2pqhjg5wzrd7lkkj4x8",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 5408.87,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ws8wrn7ndua8smcm7l5w0c0nqk947ppmq7907w",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1m3ahr9pp03ak3auckktvgc4rj29lxlk5v3rket",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1214.06,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1rkp5r0kw9n08e3pxrt79ex3rmyv9lzc5aq43ln",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4305.05,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1y7zfelflwnm9aaldd9xp5x4p8azn8vdd36w3y4",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1huwcd2d0v42x5s3y72l0wa69sfd4al8n0529aj",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1sj3xcyt05dtynd0fdt36zufndpv9ltmu6wnr25",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3201.23,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1uaq57q70pxu4vmn0jzsnmcr7pkazaecy65sh34",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2317.88,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1fkwnrnmqzgnr8vvjw7eudv6j4ggvft6t3j9e9r",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1au342rrkx42rzz32k3tj23e9h76fxqfw3he2cm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1y40yywg94e6hw80464kxrr7063d35eky6jg749",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1p5cpd6a6dh3gwgv4cl72jhceeac40pp2l5c63z",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1214.06,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ld52768jqt80aqvs77c9k6tdxe0vzqq8kqnvxa",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 10000.0,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1c90v69w3kqzgp8cllraq97k0p385lzrc7ahl9l",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1kqzfzpzja4jerjxpqadyq0vdf750ku9umwjxuk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1fcfpmgmqkyyrtag7z3qdvezkfgpmumq8wgj3vc",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1l9cq9lyf505e3sr4qthx684jxxpxku96e20zuf",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1zdhn4j72d5fruxsgv6gplp3fh29xe0gxfumach",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1vmcfjdj2pwuz7k3qf5unk5c9r347clhp69tz47",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1655.73,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1t8sk5zsucpxwyursv56yln43ndnucu736kh3gk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -2989,128 +28,7 @@
       {
         "amount": 4613.7,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ts24fs93zvamlysjzkfy9cx22ru7l75g05gea3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1hr6xsnd0kgrsvwdf40c5vfp9t5dywewyayyknc",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1ljc524mwshz3uuzqgwyvszuxvedm8j6yh3q85v",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dxz38d82pqyz296udezuede04esy7vqqrj4436",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1wd3463ejjkn32ae83e09vm65rgqkha45algsk3",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4349.14,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1xjamdqd7sxl33mrw7es35s686j9hxrsuvq2mhv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1876.2,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1szcfgdcv203t73ft5msj40qu7pep5gpk4zj0xh",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1jmkpxjgwnwce55ftcrcpkmqdvcwqepg0tdyxzh",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3863.37,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1a5cuu0r4l9vkwj4wedlxnwsuk3nuh4z0eyjz57",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 772.38,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1n5ycs4kv846zsku07xm29ltkyg2fs8xyg7avua",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 220.47,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dde2knen3rrc32nptjdurehgptz20vq5tsgz0h",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3421.7,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3121,232 +39,34 @@
       {
         "amount": 3642.9,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       },
       {
         "amount": 30,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
   {
-    "recipient": "symphony13gfcca74xad44wpug33ng0epahjqdepzmjr7pm",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4790.81,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1tf5w397vwmu7424uuvws5rmtaeshavfqcn2eff",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 4768.77,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1uzlkcqs7ymrfwhzgg3xnjnekr7x39vewm0ay6e",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2141.5,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1dzvy3g6ucv7a60xgqfu82cx3utqy7gufdetp02",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1pp8pxjulhetpf0ewt3w0735v7zzeg6z8mg8lut",
+    "recipient": "symphony15wfhuz7gzac6l3selvjcur0w9rmdf6xmj25e7v",
     "discord_id": "",
     "entries": [
       {
         "amount": 331.44,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony10gac3mqtj9mfu34s0jqe0z725vk78lenjyftr7",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 375.53,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1cqraacgm9aj7sxqzev7q0ek9rcm4g579tyqxse",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony145vs7fa0lxkr8dps5cfs47pty5j69g7wxd09j8",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 993.59,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1jh02uq8zzrucpqvsx7wnmgccjwmxgutyddzsft",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3642.9,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony12shtuka89ta42pgjt8xt6zrfumlnnyrx4g4h0v",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1nz4ru7g0arjgzz7avjkv7ryrq5qu80uc80u5uz",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1lqt62re8vxvpl62a8llurpq393y470vwwzlhgf",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 1435.26,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1e03mak7w08kdj2ffpfrkes94n3h5lgst8x235a",
+    "recipient": "symphony1emqzfcz5hezpg3z6ueqkptadpyx5qfujlzq2v3",
     "discord_id": "",
     "entries": [
       {
         "amount": 110.24,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1edk72ugrhs4uf6k2aq9ht7tzlxc6qpe2w42zpv",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 331.44,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony10p5448h68nmfdrrjzayvjs7u7pm94z45c9shqn",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 3201.23,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony104aavf30j5uwvw2nnnmnp45hjzx60sdqdg7we9",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 551.91,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1lshwqsvllerccnvp83yaej7swmm4nkecs9m37z",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 154.33,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1azf9rzckh45zht5aql3lcpweqyq293qwzg6sr7",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 6843.39,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1j5md0ums0hy9kth7xukl5d4mkgn677rjk6pmxn",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 110.24,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1wr0mqeyea45u9av63srtvgr553nyg6l94l29wz",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3357,29 +77,216 @@
       {
         "amount": 331.44,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony1fa9qgeswzrmrxn33p3k6v4t8tqdvqp0gmn9sh2",
+    "recipient": "symphony1yp4ca4ekxdw30fvnzvxkv853r7ppf86epw486f",
     "discord_id": "",
     "entries": [
       {
-        "amount": 154.33,
+        "amount": 1258.15,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony17h5jk3cnhhrcpdg9pnnqedf2m2a5pw5a3h23du",
+    "recipient": "symphony1zl5cxgxj5hmp4zk2thyql8xcxw9w7gn3udemaj",
     "discord_id": "",
     "entries": [
       {
-        "amount": 2539.08,
+        "amount": 1214.06,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nk2u8x2t369sa9a6wm90t653pzvkfhe04s8plj",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4305.05,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1wkclqpz9ruuyq9esdw8l20k60d2qg3hj0rwgll",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1mvk8603ksv5spt9epgruemcqdh3qruzex4nnv5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony109f3y2z0q5ltv6ga3psr6sua8hgf5ndeywtuwv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1x2xuzqlsnxpmg6p79sdpp6955a2z468lvn4wm5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1z5x07m62laz6thm8quanqgvg42gz99s8j4w0ee",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1n5ycs4kv846zsku07xm29ltkyg2fs8xyg7avua",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1p758gkqucexdh5fennt56d7rtf4ushgvrqj00e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony169pkmuffdpwm8dfrefc2tcsvhyv74x8rljuhxj",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1f44qd2yw4f007dqddltptaqyqly9qs052l99c9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1f4mxegd2s40jn8mlrrzyrzpvpu9vmyw9dsu9vk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 88.19,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17nun6cg7a5xtu9fz2p8scxr7u9jmrf5vmvr392",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17cjfay6kggl45xqagdv7p3qnqxha93v98u2wf6",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 6291.48,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1t83nyfq3hsjqlwj6vq3jx5y59el7uxfkrg7q0d",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4127.93,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1t8k0fqsn9u3vua26q03h6mjhnau8hmzwzphyr6",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ew2du8s99wcnk4g3anwn07v7xpufhgmrm9hynt",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1n58c2lw3t08w7yquas2ca4nvkaueqjum93lxsr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3390,7 +297,617 @@
       {
         "amount": 2539.08,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1cs0ysv4l5rk6h3tayrza4x9lphk8dpjvy632qs",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4349.14,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1kygdt9ndlvea7lxewvw09qp583r7w9tacldm6j",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1tf5w397vwmu7424uuvws5rmtaeshavfqcn2eff",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4768.77,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1y40yywg94e6hw80464kxrr7063d35eky6jg749",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dqyav4ldrts5jelh8ymflnn99wnx0k4yzpkcg6",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3907.46,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony13g9cf2dsjqf3342pwf46rc7v6vmteehd6uf3fe",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ku8s5n82p7tmjrefn7yne4shcs9z5l57g42m8m",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3201.23,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1vmcfjdj2pwuz7k3qf5unk5c9r347clhp69tz47",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xt2zcdhdf02jx5csak4t25lygfn4rwg7qw4c64",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony169c43lj2g43as5dkxeljvp8acgxgx7wxu7gwpr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1gvdrunjdvehy96sd4ndfpwg5p75swr6kkl9gka",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1p6c63p06fqtlj2t3vzv83ajt8e6xlv7gj7uf8k",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1t57tfp3ykhpf87ejaf5mwkn209vmhz9rtnahgz",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1sfnwzn86azh6f33wt7eh4au639hea96lmrcrf2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1kkfdxut9p7rrp7ac3lfxj9f75d5f8rse7225xv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony14sd8h6h7lt2j9ema55036wltjr0gmrm300mr98",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4083.84,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ewdttrv2ph7762egx4n2309h3m9r4z9puupqqm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ww5g5sdpsfp9xg4ln0rcyzzx4jjp0x0vfaunes",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17h5jk3cnhhrcpdg9pnnqedf2m2a5pw5a3h23du",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1y95qr979v5qdmh4wllec8uejn0nqzj6ff4rnk6",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xw24v52sw468z8qan7vt9vhzt9qegu4yzrgslg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1l7jdfh5ze7dzzyextvvk445dr9wy43qsjnxwec",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4790.81,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony12mt55lfsyhkdjnel47n8f4pvdd39cr5ndyc8h3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1cqraacgm9aj7sxqzev7q0ek9rcm4g579tyqxse",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony146y7j2k96unezwpsclj40q3ncsyxcgwy8cvwkg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 154.33,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony180j5p0ged2w8v90turmaauyuf9lu407cc0886l",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ws8wrn7ndua8smcm7l5w0c0nqk947ppmq7907w",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1uzlkcqs7ymrfwhzgg3xnjnekr7x39vewm0ay6e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2141.5,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1z4yl0zplnjujxfs3yx9euh9mqrhay342vjtwj7",
+    "discord_id": "saadudin06",
+    "entries": [
+      {
+        "amount": 9073.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 625,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1klq8rmvx44azuy3ap44w6m7smkzku7e46xv9jc",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1stlklws64a7lmrljk7y30v33wzzpjw3mpp787u",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 5011.29,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1accd93r8rqtffzqwlfpatmzgx8vqvt7aangf7y",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2759.55,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony15mqpgel3535nyg00ywh7r90rzyj0mxjzjeudv5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2980.02,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1c90v69w3kqzgp8cllraq97k0p385lzrc7ahl9l",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony16secwppnu2724ts4r94w8tweg27gdycn9gn5sa",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony15dq3mzgs6j2xp5f250qjrtgwlxxd98almwsdqm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1l9cq9lyf505e3sr4qthx684jxxpxku96e20zuf",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1733mnldhfrg8srd6rjwy3smajmf87j57xs6xhv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1yh8df7p3wlltqxfv4k7q49sgx84sa90hl36p2j",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1wd3463ejjkn32ae83e09vm65rgqkha45algsk3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4349.14,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1p6p0wwcgxj9alaj27f2ggzp7zsx307slzt0ps7",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1aqx95mjppf9h60r62tsnjp4d3h7t492f3ggzcd",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1rw6v0t6amwcz3dnur7szqvkl23qqgrw5yph6qw",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 44.09,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony16ku52kfy555tt36ycxmyy02hs720xvxguqk89c",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 5231.76,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1pc0hyuwxyy63phpgh6ewau05ues7njhqa69zdm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1j5md0ums0hy9kth7xukl5d4mkgn677rjk6pmxn",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1udnzzdhhvxc4zfxyn0hx3r5kdu3xgq2el0pueg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17y7hktnsfle6vqdyv04q5klk4e9qzys5hjuj0t",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dde2knen3rrc32nptjdurehgptz20vq5tsgz0h",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1w3anj8nxqfa9566py5vy5xazuwpvs89r9kqm7d",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 441.68,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1th6lcvxuzsagr6h7gk0sfdswz363cm8wmsy7ud",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1h6mt0vjfcy9x6euaddcrjs9p2m290f3e86k6yd",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1utryxd8kyxn5gz0r4hyxy6w64glf4046fsat68",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xmv9u389awdw6qpvekwsnkv7zvlyh3qmcctp8m",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony13f7yv2s3etxwjw6k9pkfr3pm6j7h6kt6h3tgh3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3401,73 +918,216 @@
       {
         "amount": 220.47,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony1d4v3yere9sfrwnclrzayc97eete0lyjt7w57mk",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 2539.08,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony1qga9gu7vlyt2f6u63t5e2cq7h3wq8g9kptaj4a",
+    "recipient": "symphony15tfc20rxtg00y26fdlqx7suvlmcrkwccxk8qy4",
     "discord_id": "",
     "entries": [
       {
         "amount": 3642.9,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony1l3mpqnynf4qh4rtmqt8mpf8p9qqcm2dwta3xru",
+    "recipient": "symphony128730dh0229kvjqen05jktkese27knx4wyxasa",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony16pu0enfnhfu9sz2rk0duj902kj345f6kpc56hk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1uadrqgsq6p9p84k0erqaq9h9s7q2trqlfnhnse",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xngnuhcqs06scc8muw3vnpa0zfvslnkgvng8w8",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1vweuyd98pe0hzuajps9calajnds29sqf3tnagn",
+    "discord_id": "rayredd",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1pwpz0acvw0mc0clr4kknedt94efhwzj87cal8z",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1m3ahr9pp03ak3auckktvgc4rj29lxlk5v3rket",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1214.06,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18072jntzuxvkahpvqxumrzw0pdv0lyfcwv08ts",
     "discord_id": "",
     "entries": [
       {
         "amount": 772.38,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony1j04u3kzzz77fl3yvpvcuzftqz5g0d0sm9rxryz",
+    "recipient": "symphony1emfwgam7h760h7u357hrk4jftup78ta5v86dyr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony12zuzgdelhj2clzq6x7lc7fua485s55phfts7fq",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 154.33,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony19xuw9jpgvnlyukyv5mz9387n6seuql7lc88y8g",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1uhts830wkz8lm7txhjfpnttd2g29sq6z4cmrg9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony196lyjqsz7thljsc0lgl28flgg3ssd34t2nqhpm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1876.2,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ejvyzku2upg0q5a6n9nd9cwa29a830hevnrt5k",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony13sckumjm0panepsln5zkg3ypah57uvhnq0krs9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1uvmtexcq5cj7a2alsmwtp9pj29lp3s45xdf9vk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1214.06,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony144gmfeuqepd42mhdxe70tkhz4ufdh8ptstnns5",
     "discord_id": "",
     "entries": [
       {
         "amount": 110.24,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
   {
-    "recipient": "symphony12cdhfd4dwffn5szll3czahja9ytpgtnkyg8x5e",
+    "recipient": "symphony12shtuka89ta42pgjt8xt6zrfumlnnyrx4g4h0v",
     "discord_id": "",
     "entries": [
       {
-        "amount": 4305.05,
+        "amount": 2539.08,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
-      }
-    ]
-  },
-  {
-    "recipient": "symphony18q8qkrtanq852tn8427qf6hry74c3rmyglzdza",
-    "discord_id": "",
-    "entries": [
-      {
-        "amount": 10000,
-        "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3478,7 +1138,622 @@
       {
         "amount": 220.47,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1wv4dj3ezx7mtnefxh9ggl73hzj5h0tzyg2v2jp",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nhfhxk692c9svf0th9ktlpsfsr6askcr8fs2xv",
+    "discord_id": "vinjan.",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dmy4llh63aq6uzm2war2uyuvnq3u8x23mjpy9s",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 10000,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1zdhn4j72d5fruxsgv6gplp3fh29xe0gxfumach",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1jh02uq8zzrucpqvsx7wnmgccjwmxgutyddzsft",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1zvj8cj4npfeujc7l6f2jvx55aqsqlmcvv84sen",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1szrs84jdtpfz20pcjle5vskwsrxj2l80ky7874",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1y7zfelflwnm9aaldd9xp5x4p8azn8vdd36w3y4",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1fkwnrnmqzgnr8vvjw7eudv6j4ggvft6t3j9e9r",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dpy72pqepeagpgs9x4uv8dj4040a0t8cpchp5v",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 44.09,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1x7zq97dvpcc846wfv8zac7qs5w0tvkkk2scsxw",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nua62a9rpewvnw7rhs5l4vz2uvlrvd2ug6jt9e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4746.72,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1a6mjc0nzrpzdr94s7hffthuscehy96h82q0v5m",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1jvkmh2yyctlfqhu6uxu6r526ervjdljn4sr5nx",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony162x2llsxzxmavtyuxjesceewmy4wvrp7fa64n3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1h2ay8awsa26zftfyjdc2f2y00uywfqflkj7v92",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1cjdxm4urpdp42un8xjsdx6469h3nlx26rewtrl",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 8410.93,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1sj3xcyt05dtynd0fdt36zufndpv9ltmu6wnr25",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3201.23,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony13yzucpdxakcupdvma7redx59rlj5p3kdspy4cq",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1zn2jappn7ssdp3asvyn2pqhjg5wzrd7lkkj4x8",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 5408.87,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1uaq57q70pxu4vmn0jzsnmcr7pkazaecy65sh34",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony19q8mf468t55ytcwucjaz7rzyr7hx82gczmr0rg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony10mkczsrf8snhdhazkf7lav2hjdctyupvyyagqy",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nz4ru7g0arjgzz7avjkv7ryrq5qu80uc80u5uz",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1m57fgag9w4yafqljpdm6n92a6qxd93dxunfw6g",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1tycyyf6vnfeypaklt2vhmlp28l9kh8keyk6ufr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xdfa534gu4pv8zqzcrkdk50729s26c6hwmyx9u",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4989.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1tqk7jezzya5glkekk8kcm9fancvcxtcupv47hp",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1vskrppekdtwz3lhaqkaxswrrmr54ekltf0j67e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4525.52,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ssqqx30dy372wqcf3y36wux92swcll2gd2m38y",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1gm7hgy2slxyrh2tr3ck6agae45rm3fd5l3563f",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony13gfcca74xad44wpug33ng0epahjqdepzmjr7pm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4790.81,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1fa9qgeswzrmrxn33p3k6v4t8tqdvqp0gmn9sh2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 154.33,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ty2kn7vzwnx3yzzltrkptlqmuykjk7aa5we2yr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1pp8pxjulhetpf0ewt3w0735v7zzeg6z8mg8lut",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1hf05gnvyvnkst9856ju0z7tnttfe55ftevzj4g",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ujv2gmfwrwzj504ntggqld0q5euafp76qx3e0d",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1214.06,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony16v23a56268xf2whl6pf35epe9qh5vyntut72pa",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18nuhl7svgrhjascux6vzwz9e564cjk5uk3s79z",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1sn2nep7qhv6477v728zmhsd64ca8zu5zmngu5y",
+    "discord_id": "rainchyy_",
+    "entries": [
+      {
+        "amount": 10000,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 225,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ddvn525qnecu7mnjh8fyce6vj3lvefhmteyd9e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1gu3v7mty89lp5w42fzw4vkcs3g68ydklfsvv26",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dkjr3vey927m9r8cnlteg5cfzxqjxgxld9ftak",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1rw076zn8n5ht5femh52vycv7kkrj5yzds786rd",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1x6lk0x27572prmys8xfyxqmj4vv95narf3z7va",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3002.07,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ljd6d8quzfn4zev99unxnz5x89frev3vgvnxu0",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ey6fkh5w8rylvdfujxaa66mraz9dv7egce07wk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 5938.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1fcfpmgmqkyyrtag7z3qdvezkfgpmumq8wgj3vc",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1jsgr0aw2peuxdf0n86r9c8qeawv04q4zgyhmlv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 9228.14,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony12l0uk9tcsu4yumdeajtt3lm44whu9dtur0jfjh",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qaqzsyua59mx8vw6xzrnw6wftdp57revxnffdm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dxz38d82pqyz296udezuede04esy7vqqrj4436",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17chflyhjgglyg6ct727w8ta2f5w7qph0f3sg82",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2980.02,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1znaj4lqyds2jsg9tpmwt59r0mxn85at4ss3gan",
+    "discord_id": "dilay4235",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 250,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1jmkpxjgwnwce55ftcrcpkmqdvcwqepg0tdyxzh",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3489,7 +1764,1732 @@
       {
         "amount": 110.24,
         "denom": "MLD",
-        "reason": "Testnet Tasks"
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qga9gu7vlyt2f6u63t5e2cq7h3wq8g9kptaj4a",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nw97tyt5eslcsexev2wk5x9fqnth92tvazyupx",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2361.97,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1zqp3e3jh2t0l6hyzavr2wzyvt5jzyqnd4g8cmm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4083.84,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1z9ltadgyhrqncq8e4m9f3klstxwuv035qwzlq3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1x7n45ayc3hvgjmvmy0mgvaamfq79fcddu2kk38",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1mnllgglyvynflagp3a4qwsd6gxep5m675dc8r7",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1azf9rzckh45zht5aql3lcpweqyq293qwzg6sr7",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 6843.39,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1tsw98vrs7hssq403xwczaxf472ndylggsupx29",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 971.54,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1eywufmvkl4805stahfkdt0qetc3r0zvhrhz47w",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1876.2,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18500v6jlrccv99n74cf7g3tc3xzxtw7hl6ecr8",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4305.05,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1lqt62re8vxvpl62a8llurpq393y470vwwzlhgf",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dfz6mp8ryqxpms45fpf5m80l83egyn5q8l3kdx",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18d7jpa5q6we96gluuc767cacxzgq92xq62f9xj",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1904h4pkdezcm7xcxrcum7cckr4wel3kawrvh6c",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1876.2,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1t2lvvmcd8md0umev6ntpd7vg866nd7fmt339pl",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17awa733zt605tmth4gggfhdzsl26kr0vmlz723",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dsyc939h0shyzu7lw56mg30f0xn0yz0evcq5zm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ldg6m46nw06gntnnxq6llju42ffw0cn92qav25",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 6578.83,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1t2xl92qmc6lppkn6ys4qryjzrj5jwhjwhgqxd0",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1015.63,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony10gac3mqtj9mfu34s0jqe0z725vk78lenjyftr7",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 375.53,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony19u4hh3npqh3y2df7dvsd76prlt6zkyk37cn4lu",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony15uqwrx9ukc6weq7c67qdszxx0ss9vhcgdl3g6t",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1neqprx4sd0xrs4snn2q9ccchg6ksva3pvg32sg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18q8qkrtanq852tn8427qf6hry74c3rmyglzdza",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 10000,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qfen22dta3qmlvusq2jkryyhkffap7tk8werjj",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 375.53,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1d68rccckj3zfgqayat5sexl6gvsrgy3xuxezd3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1876.2,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xw4qqyffdf20hna33egl97wrzy0j4qujz50cve",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qn5zfa58ty52sklw3vfsv62mk3g3sk57uhgr4d",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qpr7sggum75f948hj9ykamn9y77un9nkednkpr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1vurdg72kfuxdcj2yspx0n7kn5sl6uu3e7ped8y",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 9426.57,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1f3xnt2t6qtqlwcqu42elxncyenqglu9frn0tg2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony15zt6l9jfeuajw6xhkef3vrtdsc43sfcwpxjp5j",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4349.14,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1erx7ua7upv20xfhhpcn7p5d639xtj49vz5qusw",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3686.99,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1hel9md4mwxtwfrjjna60fwynfuqe55avw4mask",
+    "discord_id": ".ravensyndrome",
+    "entries": [
+      {
+        "amount": 8058.18,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 6150,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony145vs7fa0lxkr8dps5cfs47pty5j69g7wxd09j8",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ha82lhrtex4x5le4jra57du8hnw7rmw3u0p2nc",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4305.05,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qykpgnx9w9ezw45qqee3tywzzzn2zzlyjgl0jq",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony15symeacww630s6xd9zx7uyxecrzr7zy5qr9gh5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1huwcd2d0v42x5s3y72l0wa69sfd4al8n0529aj",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1keaeu3wellxk2hzf3x3hx6dk5c0psh0tqhw4x2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1v0xjkkchxv2su584tjm89mxvmsfh2yg3hw673d",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 7484.22,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1mr9dqtwmt3l8ns37dcctmeunznu20h2rmacmk0",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1edk72ugrhs4uf6k2aq9ht7tzlxc6qpe2w42zpv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1a5cuu0r4l9vkwj4wedlxnwsuk3nuh4z0eyjz57",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dre7g6dchg4r0z5ga05p54djxus8lv45vw6c73",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dqwla3w8gmxrcpr8482d2f4wh6aayyty04lq63",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1t8sk5zsucpxwyursv56yln43ndnucu736kh3gk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 220.47,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1l3mpqnynf4qh4rtmqt8mpf8p9qqcm2dwta3xru",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1jqye4xfaflynsmr0ttuzzz37vcuwmuk85475na",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1876.2,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony10p5448h68nmfdrrjzayvjs7u7pm94z45c9shqn",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3201.23,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1gjej6szndkuaadfsu4u8mhrul6qhyfrqq96ecs",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1z40wdka2x3cvhwahuaa8u3mrfj0sfkvkpka8jp",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony104aavf30j5uwvw2nnnmnp45hjzx60sdqdg7we9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1yc9lmxasq7yhh9uec7vd8krug98ja9jm6gm6vp",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nzmazmhqmatpf3kag7mpvzwrwpxp744xw3e0we",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1r5m978tlcuuuvmaw6xqdj2k2qpv5myxw4xeay2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony197hjscq0hdd0synnr6kp6vjnt6whhkhaw8a3z5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1w3ra37zrqschmpn3mgk0nqrep7wdjvrvpq6z7a",
+    "discord_id": "hidayahhtaufik",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18lpzdk3z0f487up8qkav6vg35fq64y9purgdzr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1hr6xsnd0kgrsvwdf40c5vfp9t5dywewyayyknc",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1f5wjkd6panvgdgxlmcm3n3tjvh7s9q39a4wqvd",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1memcf6sqd00h6yzf0e8e8e707tjmszpdhdn8jj",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 353.49,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dsmnavqp0nfwjpjcyjypdy4fa9z8pv4v33rera",
+    "discord_id": "aksamlan",
+    "entries": [
+      {
+        "amount": 4746.72,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1szcfgdcv203t73ft5msj40qu7pep5gpk4zj0xh",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony12cdhfd4dwffn5szll3czahja9ytpgtnkyg8x5e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4305.05,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1p5cpd6a6dh3gwgv4cl72jhceeac40pp2l5c63z",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1214.06,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ljmp5pmtccdm52sqh2wlp6rpt02qazcl429zck",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 6335.58,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1zfqczj74yacl03azq0r6fvrwcz5p3xdg4sf8wf",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1a9zmhn5ycxtz6h0x3f50cy2tdcve335dv4uej7",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nvn4sfc3r2d69c7v0j9v7ak87xepz9q567frvm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nsv3h9dhtxp0alazmvjcddye203lfe6jtzdu6e",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ch20ap73dqudanw0ufhpn2jpvl6zayqe2qudqw",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qp09a06dd4y33mgzgx2pachqqu6qcw7lycyjav",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1hdrvlmrpx44w5ew9xmmc0hwfdnqvn5zrw7e9ge",
+    "discord_id": "need_jp",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ugf25wya496ws8638w6750wjj2qmdh4c3egp38",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 5320.68,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18fltum8llunux5lyqrcr9l37def82cpzvmuj7p",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4967.19,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1tdynjaasvdj3vza5flrqxq5uedn0fwyuvlkcxu",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2561.13,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dzvy3g6ucv7a60xgqfu82cx3utqy7gufdetp02",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1nv4vn7hq4ln32jpe0qw0vsv8mmkp9dur4gekjh",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3686.99,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1lshwqsvllerccnvp83yaej7swmm4nkecs9m37z",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 154.33,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony19nv5qcd5tsm6k6s4vz3an4sreswynavj6g4nmw",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1062pqrt6z6w0nsp6t25ekxmgxx9dl03jv5y6ew",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1paslvj6znkyhpca2lugvhlsxkqtepjxxhrw4dz",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ej5fjnxlg8euu34vch9u5rftz50v46ly7v8pmh",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4083.84,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xpf42qf48tssgfu3crcq0eju4qfqe849qr7666",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 375.53,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony10ns6fccrf7zdmmdsehrgng7grmqc2let8afw0t",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1z4wsygw8ntccdp4mmdhpyzrd93w0kl9r34dv66",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ma7clkje2gc60mhj899p3mem3s5g0uflxsgf5d",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3421.7,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xjamdqd7sxl33mrw7es35s686j9hxrsuvq2mhv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1876.2,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1twamhf5tkf2glcjzu5zfm248l5e74crn6udah8",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qm8ttsqm99uucnjqg7h2qzlrl6rxcay7x7pyw5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1rtyehaur9xyjrk4kr8yvvyp7k9vm8jl5rfaqu3",
+    "discord_id": "ifan_2000",
+    "entries": [
+      {
+        "amount": 10000,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 250,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18edf5rgrwm5wfhrmayy3n8jug34j5c84rpf85h",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2317.88,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17gq57ef88jdhf529uel4zxrd0z30nae2w3wc2t",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1u62ksu6vl4nke79hzvgv78jm4vav783zk0sm70",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1rkp5r0kw9n08e3pxrt79ex3rmyv9lzc5aq43ln",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4305.05,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1wr0mqeyea45u9av63srtvgr553nyg6l94l29wz",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1agg40pllc6d6qnd57eu50rgmsqyc4vmset0307",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ph402ry55q8ravgl2a9z4zctvrcmz00vj2csna",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 662.15,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ljc524mwshz3uuzqgwyvszuxvedm8j6yh3q85v",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1kqzfzpzja4jerjxpqadyq0vdf750ku9umwjxuk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1wv5a4quvyg7rugg99wj9l2n8ardg6ccy8ljcj9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ts24fs93zvamlysjzkfy9cx22ru7l75g05gea3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1h5n0g98fqsf9xluzw9k23nhqurmjyx3t8e673x",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4569.61,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony126g40fw7trkuf4hhzwwett6wt9yhssysemy73k",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1z9h73gvsp3auv4tcglua68vslnvucf99wl4ryk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4083.84,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1yg7mapv3q0sqhggew76e82ham9yh6md4t5z2lf",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ld52768jqt80aqvs77c9k6tdxe0vzqq8kqnvxa",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 10000.0,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1lm0kg3aex3fqxlk7feuft7dtvaqgfwmvy3z6jr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1d4v3yere9sfrwnclrzayc97eete0lyjt7w57mk",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1j04u3kzzz77fl3yvpvcuzftqz5g0d0sm9rxryz",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qk5lts8r9vfaedp042xlrhhga8zczpnyv9llkt",
+    "discord_id": "baekjingan69",
+    "entries": [
+      {
+        "amount": 10000,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 2290,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1alqu2n5kc7fax23v8yvhsvvmwwwsc0qh3l9ts7",
+    "discord_id": "alidargo08",
+    "entries": [
+      {
+        "amount": 10000,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      },
+      {
+        "amount": 1262,
+        "denom": "MLD",
+        "category": "Discord Events"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1973qhhswmsf0y99h88t40v7ecgzqhs6rgdtptt",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1j07jj7wjvmr49rr47netevjcmqyzd8pudedzq9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1699.82,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1fuvcqj8uw8mkysptlfgjjshvn60jvmhrh5fzj7",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1etmgwdvzmmqgtqf3wyhjvvncr957tdy0k97wsy",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17egakd4y82kj7ttd77ew9akyxr78q9f43r548x",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1f9v2zr08heg520zyq5luklats2rxx4tavqww3a",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1655.73,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18let4c8elvpy0s4myp3kngv6j0ppdhgflxsuwh",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1zyanku896n49j2d4zgwfhgzgwr48euu3xdx2jp",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1214.06,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony12flun6nedtqktkttpmd8y44m05sjk6wlxe2qzf",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony126nhsd8nuyjq6cf64d3nvh4d4j3nae467vepey",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1uvs5m8ekhvaaz92zwwwttzm5eu8nfk0fdculkg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 8764.42,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1mnc7zcxmx07dftsgmz0jry34q2u0ddlcyacnn2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1hvv79e5jcgkjralhat7pgx7fkp4r5em95740w9",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 7130.74,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1g97we496ef0mt39jse82r67lmy2l7hw6e2a6j6",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1479.35,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1ryvz2c0n847lp5n2q6kr8jwq7wz9zjcz2cnmfr",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1au342rrkx42rzz32k3tj23e9h76fxqfw3he2cm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qaq7mr6r8k4h0yneeycdv06cqa659nnaphckfd",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony18trmku5jtmlhcx8l5hgq8wkcp2r8f9famkl7xz",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 264.56,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony15x809j67lhv02g8s59nk38qzjfekd6zd5rgweg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1w7mp6ft6ns9hupmam4nd78940agf49ueqa9nan",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 6998.46,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1e03mak7w08kdj2ffpfrkes94n3h5lgst8x235a",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1pfcldpdj62zdz3gs52rf2gfpclf9tuuu9vmyqm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1p0c535h66vclvnw33fvcz2emze6248c8q2ld2h",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1898.25,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1vk9nsxwhvprq55lmu999yazljgd3zucew48c7w",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3642.9,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1v8w8gmc4zahffmkdq3r8ha7nrptuhpcm6jcqzn",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1xe5x8u4hlxq2mewymwdet6e8j7g0jf86hjrk96",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4790.81,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1w42226482g2ykr7re67w5c9ucv6ssacx39t2eg",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony16fls5curwmk4z7mwg93eejwj6hx6reqwl208ms",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 5187.66,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1a82nkg7d6x6l78rgl2urre6xx462arrhdxq2c3",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3863.37,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1glsn2ly7cgku5qgxt9aaepfydq9xlsaa6em8p0",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3201.23,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1jl4nujanxkkrgsngqlfr8kkduhmz8tu55m7v32",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 110.24,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1v2hsm69lhk33qt8qrm2pumqcwmfs0nr5d4x3zm",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 772.38,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1f2lqzwx5h08xx75jyqf608cquyj6ajudsh0f87",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 2539.08,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony19u2zryzza93v8p7ms997rrq4hsz7r34937706a",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 3201.23,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1qgnpa7tv4j5mkqfyfpvrvwlzkfepn573qz2u3a",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1esh7f7vkeusw76kqmxugagpv92vrxll3x5azxv",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 4525.52,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dsnfjekjj23vtuemd8as5jmtf99ql5yhrthmwd",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 993.59,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1dfpz9jk8077xzz5uj53w65ngg4wa83su64jlau",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 596.0,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony17afy5z6whyawhkt56xuf9wtuw9n72ge2vunmn5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1j3rxeu60vgmqklttjk43uz9tf2zw4a8e4zejk2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 1435.26,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1fs0ke5aqxuzwczzj4ks4h4fr2shjzcguvlxmg2",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 551.91,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
+      }
+    ]
+  },
+  {
+    "recipient": "symphony1tenuapf7j0g697px8pv4r7mne4hgw570lfwlu5",
+    "discord_id": "",
+    "entries": [
+      {
+        "amount": 331.44,
+        "denom": "MLD",
+        "category": "Testnet Tasks"
       }
     ]
   },
@@ -3500,7 +3500,7 @@
       {
         "amount": 3700,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3511,7 +3511,7 @@
       {
         "amount": 2525,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3522,7 +3522,7 @@
       {
         "amount": 2500,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3533,7 +3533,7 @@
       {
         "amount": 2500,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3544,7 +3544,7 @@
       {
         "amount": 2450,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3555,7 +3555,7 @@
       {
         "amount": 2450,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3566,7 +3566,7 @@
       {
         "amount": 375,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3577,7 +3577,7 @@
       {
         "amount": 275,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3588,7 +3588,7 @@
       {
         "amount": 250,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3599,7 +3599,7 @@
       {
         "amount": 250,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3610,7 +3610,7 @@
       {
         "amount": 250,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3621,7 +3621,7 @@
       {
         "amount": 25,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3632,7 +3632,7 @@
       {
         "amount": 50,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3643,7 +3643,7 @@
       {
         "amount": 25,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3654,7 +3654,7 @@
       {
         "amount": 125,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3665,7 +3665,7 @@
       {
         "amount": 150,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3676,7 +3676,7 @@
       {
         "amount": 125,
         "denom": "MLD",
-        "reason": "Discord Events"
+        "category": "Discord Events"
       }
     ]
   },
@@ -3685,9 +3685,9 @@
     "discord_id": "unclaimed",
     "entries": [
       {
-        "amount": 310892.67,
+        "amount": 339999.67,
         "denom": "MLD",
-        "reason": "1000 participants not reached"
+        "category": "Testnet Tasks"
       }
     ]
   }

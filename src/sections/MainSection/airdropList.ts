@@ -12,7 +12,7 @@ const isEntryValid = (entry: Omit<AirdropEntry, 'valid'>): boolean => {
     entry.amount > 0 &&
     entry.denom === 'MLD' &&
     VALID_AIRDROP_CATEGORIES.includes(
-      entry.reason as (typeof VALID_AIRDROP_CATEGORIES)[number],
+      entry.category as (typeof VALID_AIRDROP_CATEGORIES)[number],
     )
   );
 };
