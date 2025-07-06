@@ -1,6 +1,8 @@
 import '@interchain-ui/react/styles';
 
-import { wallets } from '@cosmos-kit/keplr';
+import { wallets as keplrWallets } from '@cosmos-kit/keplr';
+import { wallets as leapWallets } from '@cosmos-kit/leap-mobile';
+import { wallets as ariaWallets } from '@cosmos-kit/aria-extension';
 import { ChainProvider } from '@cosmos-kit/react';
 import { getSigningCosmosClientOptions } from '@orchestra-labs/symphonyjs';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
@@ -36,12 +38,26 @@ const signerOptions: SignerOptions = {
 };
 
 export default function App() {
+  const supportedChains = chains.filter(c => c.chain_name === defaultChainName);
+
   return (
     <ChainProvider
-      chains={chains.filter(c => c.chain_name === defaultChainName)} // supported chains
+      chains={supportedChains} // supported chains
       assetLists={assets} // supported asset lists
-      wallets={wallets} // supported wallets,
+      wallets={[...keplrWallets, ...leapWallets, ...ariaWallets]} // supported wallets,
       signerOptions={signerOptions}
+      walletConnectOptions={{
+        signClient: {
+          projectId: import.meta.env.VITE_PUBLIC_WALLETCONNECT_PROJECT_ID,
+          metadata: {
+            name: 'Airdrop Tracker',
+            description: 'Track your Symphony airdrops',
+            url: 'https://airdrop-tracker.orchestralabs.org/',
+            icons: ['https://i.imgur.com/a/SucPfrY'],
+          },
+        },
+      }}
+      throwErrors={true}
     >
       <QueryClientProvider client={queryClient}>
         <Suspense
