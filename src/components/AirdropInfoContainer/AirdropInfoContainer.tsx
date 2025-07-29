@@ -124,7 +124,9 @@ export const AirdropInfoContainer = () => {
           {!viewTopRecipients && (
             <CardDescription
               className="hover:bg-blue-hover hover:cursor-pointer p-2 rounded-md text-center"
-              onClick={() => copyToClipboard(address || '')}
+              onClick={() =>
+                isWalletConnected ? copyToClipboard(address || '') : {}
+              }
             >
               {address}
             </CardDescription>
