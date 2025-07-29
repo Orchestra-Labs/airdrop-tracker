@@ -714,16 +714,36 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cosmos-kit/aria-extension@npm:^2.16.0":
-  version: 2.16.0
-  resolution: "@cosmos-kit/aria-extension@npm:2.16.0"
+"@cosmos-kit/aria-extension@npm:^2.17.1":
+  version: 2.17.1
+  resolution: "@cosmos-kit/aria-extension@npm:2.17.1"
   dependencies:
     "@chain-registry/keplr": "npm:^1.69.13"
-    "@cosmos-kit/core": "npm:^2.16.0"
+    "@cosmos-kit/core": "npm:^2.16.2"
   peerDependencies:
     "@cosmjs/amino": ">=0.32.3"
     "@cosmjs/proto-signing": ">=0.32.3"
-  checksum: 10c0/d1d93f619356b812a946264b9c85ea4a5e039020f674d08da0020e4ed416a5dc405084ccb2916911517133723f30895cedbf3dc5b39a39e1e3233abd5dc0da66
+  checksum: 10c0/90ec5d52d4eead0e16a5cba84869da336913314976b650902c23ed5d161c47748fb3c15abf180fc14054a54435db6cfc9a518e6ece08cea2b7a49e65d0e456ef
+  languageName: node
+  linkType: hard
+
+"@cosmos-kit/aria-mobile@npm:^1.1.2":
+  version: 1.1.2
+  resolution: "@cosmos-kit/aria-mobile@npm:1.1.2"
+  dependencies:
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@cosmos-kit/walletconnect": "npm:^2.13.2"
+  checksum: 10c0/422aa713fe7cc18b7ef787dbb4549832d433ae0f342c07a85b5ff001ee7de60cb987b7363945112bb7f32be3b3599200566fc13236026e18c50cc7b9951f439f
+  languageName: node
+  linkType: hard
+
+"@cosmos-kit/aria@npm:^2.16.1":
+  version: 2.16.1
+  resolution: "@cosmos-kit/aria@npm:2.16.1"
+  dependencies:
+    "@cosmos-kit/aria-extension": "npm:^2.17.1"
+    "@cosmos-kit/aria-mobile": "npm:^1.1.2"
+  checksum: 10c0/339b02be0c5f7e83dbf16c146b5b03d7c2630f9112d69b0570fd23b772009dfa4de2400ee1571c638e496e708d175f57be279cd12a8416ace9b5c197a7175efd
   languageName: node
   linkType: hard
 
@@ -794,7 +814,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cosmos-kit/core@npm:^2.15.0, @cosmos-kit/core@npm:^2.16.0":
+"@cosmos-kit/core@npm:^2.16.0":
   version: 2.16.0
   resolution: "@cosmos-kit/core@npm:2.16.0"
   dependencies:
@@ -813,6 +833,28 @@ __metadata:
     nock: "npm:13.5.4"
     uuid: "npm:^9.0.1"
   checksum: 10c0/b3c110b64aaee8fbcc1dc3ddc4f2514285ac6d02857c1a54ce936889440d3adeccfe81f518a6a2f2b91ae429badc3c3b0b0b11c54d7cc70073a070991e79e9fe
+  languageName: node
+  linkType: hard
+
+"@cosmos-kit/core@npm:^2.16.2":
+  version: 2.16.2
+  resolution: "@cosmos-kit/core@npm:2.16.2"
+  dependencies:
+    "@chain-registry/client": "npm:^1.49.11"
+    "@chain-registry/keplr": "npm:^1.69.13"
+    "@chain-registry/types": "npm:^0.46.11"
+    "@cosmjs/amino": "npm:^0.32.3"
+    "@cosmjs/cosmwasm-stargate": "npm:^0.32.3"
+    "@cosmjs/proto-signing": "npm:^0.32.3"
+    "@cosmjs/stargate": "npm:^0.32.3"
+    "@dao-dao/cosmiframe": "npm:^1.0.0"
+    "@walletconnect/types": "npm:2.11.0"
+    bowser: "npm:2.11.0"
+    cosmjs-types: "npm:^0.9.0"
+    events: "npm:3.3.0"
+    nock: "npm:13.5.4"
+    uuid: "npm:^9.0.1"
+  checksum: 10c0/ff5b9bb48b9c6f4c3f14268f67592a4c39dbee8e393d83805bc3e79f997e9ac83fbf563044043a2e34503e76e350b79e565944a5853cebb21ab2e5fa23d38f8b
   languageName: node
   linkType: hard
 
@@ -967,6 +1009,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@cosmos-kit/keplr-extension@npm:^2.15.2":
+  version: 2.15.2
+  resolution: "@cosmos-kit/keplr-extension@npm:2.15.2"
+  dependencies:
+    "@chain-registry/keplr": "npm:^1.69.13"
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@keplr-wallet/provider-extension": "npm:^0.12.95"
+    "@keplr-wallet/types": "npm:^0.12.95"
+  peerDependencies:
+    "@cosmjs/amino": ">=0.32.3"
+    "@cosmjs/proto-signing": ">=0.32.3"
+  checksum: 10c0/84eac6d3c8c46c1e92e767d57c231d26e34eaf50dcc24378b781eb27d68023d5489bedb3fa3a73599cc78f8c1d053e01cb9169cf7eb351fa3f4120ea4c92b1f0
+  languageName: node
+  linkType: hard
+
 "@cosmos-kit/keplr-mobile@npm:^2.15.0":
   version: 2.15.0
   resolution: "@cosmos-kit/keplr-mobile@npm:2.15.0"
@@ -984,13 +1041,40 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cosmos-kit/keplr@npm:^2.14.2, @cosmos-kit/keplr@npm:^2.15.0":
+"@cosmos-kit/keplr-mobile@npm:^2.15.2":
+  version: 2.15.2
+  resolution: "@cosmos-kit/keplr-mobile@npm:2.15.2"
+  dependencies:
+    "@chain-registry/keplr": "npm:^1.69.13"
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@cosmos-kit/keplr-extension": "npm:^2.15.2"
+    "@cosmos-kit/walletconnect": "npm:^2.13.2"
+    "@keplr-wallet/provider-extension": "npm:^0.12.95"
+    "@keplr-wallet/wc-client": "npm:^0.12.95"
+  peerDependencies:
+    "@cosmjs/amino": ">=0.32.3"
+    "@cosmjs/proto-signing": ">=0.32.3"
+  checksum: 10c0/58db365ba8f559ec34d1076f0f669e153e8adebc8f651aa261c6901940a80891dcdd1b75dd1f6b540cbfe478ec1ff3b368b0f8bcb2266be83e3efaa3e28e3916
+  languageName: node
+  linkType: hard
+
+"@cosmos-kit/keplr@npm:^2.15.0":
   version: 2.15.0
   resolution: "@cosmos-kit/keplr@npm:2.15.0"
   dependencies:
     "@cosmos-kit/keplr-extension": "npm:^2.15.0"
     "@cosmos-kit/keplr-mobile": "npm:^2.15.0"
   checksum: 10c0/3d68e4f46d2e6cf9a8df77e7c290f88b7037dfd89d22d7279b2a52a66513f0d6cc07078da6f16466624e4801d8702e2c156de147f3923fd47a06128aa91f302f
+  languageName: node
+  linkType: hard
+
+"@cosmos-kit/keplr@npm:^2.15.2":
+  version: 2.15.2
+  resolution: "@cosmos-kit/keplr@npm:2.15.2"
+  dependencies:
+    "@cosmos-kit/keplr-extension": "npm:^2.15.2"
+    "@cosmos-kit/keplr-mobile": "npm:^2.15.2"
+  checksum: 10c0/9c4e1c170398f72b92617f157652c55d6495477ce933560a38b061be2aca8b3f3a23a285a9bd9e7d08a73d5e4473461f99db2763b8952ed0c7474fa4656bb297
   languageName: node
   linkType: hard
 
@@ -1131,29 +1215,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cosmos-kit/react-lite@npm:^2.16.0":
-  version: 2.16.0
-  resolution: "@cosmos-kit/react-lite@npm:2.16.0"
+"@cosmos-kit/react-lite@npm:^2.16.2":
+  version: 2.16.2
+  resolution: "@cosmos-kit/react-lite@npm:2.16.2"
   dependencies:
     "@chain-registry/types": "npm:^0.46.11"
-    "@cosmos-kit/core": "npm:^2.16.0"
-    "@dao-dao/cosmiframe": "npm:^1.0.0-rc.1"
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@dao-dao/cosmiframe": "npm:^1.0.0"
   peerDependencies:
     "@types/react": "*"
     "@types/react-dom": "*"
     react: ^18.0.0 || ^19.0.0
     react-dom: ^18.0.0 || ^19.0.0
-  checksum: 10c0/e8c8350b7364f4ea46b342d5f61ac902f78ed9a1c61a96ed47e38c61187ba57307f3d423214a9f785d9e1cb2962ece361fb965d8025eb3c9427ad47e37c01033
+  checksum: 10c0/c8945c0b5abc7a844ff506decbe3b60710e6417a72abcead5795df83239bf39898f4085b6c597b0171226eb28c4247d18da85272d6fdfd81aa61700e1cf4c0dd
   languageName: node
   linkType: hard
 
-"@cosmos-kit/react@npm:^2.21.1":
-  version: 2.22.0
-  resolution: "@cosmos-kit/react@npm:2.22.0"
+"@cosmos-kit/react@npm:^2.22.2":
+  version: 2.22.2
+  resolution: "@cosmos-kit/react@npm:2.22.2"
   dependencies:
     "@chain-registry/types": "npm:^0.46.11"
-    "@cosmos-kit/core": "npm:^2.16.0"
-    "@cosmos-kit/react-lite": "npm:^2.16.0"
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@cosmos-kit/react-lite": "npm:^2.16.2"
     "@react-icons/all-files": "npm:^4.1.0"
   peerDependencies:
     "@interchain-ui/react": ^1.26.3
@@ -1161,7 +1245,7 @@ __metadata:
     "@types/react-dom": "*"
     react: ^18.0.0 || ^19.0.0
     react-dom: ^18.0.0 || ^19.0.0
-  checksum: 10c0/aa9d19042b1e923725f2067bab200aaba768d70195d271230484d623bf3d3ebc3c777d974746320c44cbc8f2ff9636337fb7d0bf8e3c538ccfd843d3cdfc320f
+  checksum: 10c0/fb9f225eff9ec2926c6faa4dbb9c10be3b740e58ea31ab0dd9f91914b16b8e74de232f2235e6888d3fcc43e10c979b8424cbee1c03fe2d74c820c706223b5eaf
   languageName: node
   linkType: hard
 
@@ -1256,6 +1340,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@cosmos-kit/walletconnect@npm:^2.13.2":
+  version: 2.13.2
+  resolution: "@cosmos-kit/walletconnect@npm:2.13.2"
+  dependencies:
+    "@cosmjs/proto-signing": "npm:^0.32.3"
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@walletconnect/sign-client": "npm:^2.9.0"
+    "@walletconnect/utils": "npm:^2.9.0"
+    events: "npm:3.3.0"
+  peerDependencies:
+    "@cosmjs/amino": ">=0.32.3"
+    "@walletconnect/types": 2.11.0
+  checksum: 10c0/d942c15c5f31a97114462456bb8720498b7488e73566fde6fd693bf8df6a06b83df8297578629845b9dd01258f09f21ae9df57e35b571149823025e7a527eb4a
+  languageName: node
+  linkType: hard
+
 "@cosmostation/extension-client@npm:0.1.15":
   version: 0.1.15
   resolution: "@cosmostation/extension-client@npm:0.1.15"
@@ -1263,7 +1363,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dao-dao/cosmiframe@npm:^1.0.0-rc.1":
+"@dao-dao/cosmiframe@npm:^1.0.0, @dao-dao/cosmiframe@npm:^1.0.0-rc.1":
   version: 1.0.0
   resolution: "@dao-dao/cosmiframe@npm:1.0.0"
   dependencies:
@@ -5728,10 +5828,10 @@ __metadata:
     "@cosmjs/launchpad": "npm:^0.27.1"
     "@cosmjs/proto-signing": "npm:^0.32.4"
     "@cosmjs/stargate": "npm:^0.32.4"
-    "@cosmos-kit/aria-extension": "npm:^2.16.0"
-    "@cosmos-kit/core": "npm:^2.15.0"
-    "@cosmos-kit/keplr": "npm:^2.14.2"
-    "@cosmos-kit/react": "npm:^2.21.1"
+    "@cosmos-kit/aria": "npm:^2.16.1"
+    "@cosmos-kit/core": "npm:^2.16.2"
+    "@cosmos-kit/keplr": "npm:^2.15.2"
+    "@cosmos-kit/react": "npm:^2.22.2"
     "@interchain-ui/react": "npm:^1.23.31"
     "@interchain-ui/react-no-ssr": "npm:^0.1.9"
     "@keplr-wallet/types": "npm:^0.12.123"

@@ -1,8 +1,7 @@
 import '@interchain-ui/react/styles';
 
+import { wallets as ariaWallets } from '@cosmos-kit/aria';
 import { wallets as keplrWallets } from '@cosmos-kit/keplr';
-import { wallets as leapWallets } from '@cosmos-kit/leap-mobile';
-import { wallets as ariaWallets } from '@cosmos-kit/aria-extension';
 import { ChainProvider } from '@cosmos-kit/react';
 import { getSigningCosmosClientOptions } from '@orchestra-labs/symphonyjs';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
@@ -15,6 +14,7 @@ import { Loader, ScrollToTop } from '@/components';
 import { defaultChainName } from '@/constants';
 
 import { AppRouter } from './app/Router';
+import { MainWalletBase } from '@cosmos-kit/core';
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -39,16 +39,17 @@ const signerOptions: SignerOptions = {
 
 export default function App() {
   const supportedChains = chains.filter(c => c.chain_name === defaultChainName);
+  const wallets: MainWalletBase[] = [...ariaWallets, ...keplrWallets];
 
   return (
     <ChainProvider
       chains={supportedChains} // supported chains
       assetLists={assets} // supported asset lists
-      wallets={[...keplrWallets, ...leapWallets, ...ariaWallets]} // supported wallets,
+      wallets={wallets} // supported wallets,
       signerOptions={signerOptions}
       walletConnectOptions={{
         signClient: {
-          projectId: import.meta.env.VITE_PUBLIC_WALLETCONNECT_PROJECT_ID,
+          projectId: import.meta.env.VITE_WALLETCONNECT_PROJECT_ID,
           metadata: {
             name: 'Airdrop Tracker',
             description: 'Track your Symphony airdrops',
