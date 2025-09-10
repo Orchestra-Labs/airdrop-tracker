@@ -714,16 +714,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cosmos-kit/aria-extension@npm:^2.17.1":
-  version: 2.17.1
-  resolution: "@cosmos-kit/aria-extension@npm:2.17.1"
+"@cosmos-kit/aria-extension@npm:^2.18.0":
+  version: 2.18.0
+  resolution: "@cosmos-kit/aria-extension@npm:2.18.0"
   dependencies:
     "@chain-registry/keplr": "npm:^1.69.13"
     "@cosmos-kit/core": "npm:^2.16.2"
   peerDependencies:
     "@cosmjs/amino": ">=0.32.3"
     "@cosmjs/proto-signing": ">=0.32.3"
-  checksum: 10c0/90ec5d52d4eead0e16a5cba84869da336913314976b650902c23ed5d161c47748fb3c15abf180fc14054a54435db6cfc9a518e6ece08cea2b7a49e65d0e456ef
+  checksum: 10c0/838a2b323f52ba440cc080ca726f91d9d614ada96b2bf872ea0f6498797617bc6bd12569b7bbc47641d98c7be8f943c76f6b46864baa95cca3d455bcae6f5a96
   languageName: node
   linkType: hard
 
@@ -737,13 +737,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cosmos-kit/aria@npm:^2.16.1":
-  version: 2.16.1
-  resolution: "@cosmos-kit/aria@npm:2.16.1"
+"@cosmos-kit/aria@npm:^2.16.2":
+  version: 2.16.2
+  resolution: "@cosmos-kit/aria@npm:2.16.2"
   dependencies:
-    "@cosmos-kit/aria-extension": "npm:^2.17.1"
+    "@cosmos-kit/aria-extension": "npm:^2.18.0"
     "@cosmos-kit/aria-mobile": "npm:^1.1.2"
-  checksum: 10c0/339b02be0c5f7e83dbf16c146b5b03d7c2630f9112d69b0570fd23b772009dfa4de2400ee1571c638e496e708d175f57be279cd12a8416ace9b5c197a7175efd
+  checksum: 10c0/0bea8a4d280ffb91e744657ad2670c89fde2c20b4dbda3e33e9e9e40305d72a5b0af93e650a3b400ec25594cc39094c3b352f2f6e341dd31439e880124bc4a4d
   languageName: node
   linkType: hard
 
@@ -5828,7 +5828,7 @@ __metadata:
     "@cosmjs/launchpad": "npm:^0.27.1"
     "@cosmjs/proto-signing": "npm:^0.32.4"
     "@cosmjs/stargate": "npm:^0.32.4"
-    "@cosmos-kit/aria": "npm:^2.16.1"
+    "@cosmos-kit/aria": "npm:^2.16.2"
     "@cosmos-kit/core": "npm:^2.16.2"
     "@cosmos-kit/keplr": "npm:^2.15.2"
     "@cosmos-kit/react": "npm:^2.22.2"
