@@ -4,11 +4,7 @@ steps:
     entrypoint: 'bash'
     args:
       - '-c'
-      - |
-        cat > .env << 'EOF'
-        VITE_APP_URL=https://orchestralabs.org/
-        VITE_WALLETCONNECT_PROJECT_ID=70ba37949838afd24f17421f5b6bcfd0
-        EOF
+      - 'echo "VITE_APP_URL=https://orchestralabs.org/" > .env && echo "VITE_WALLETCONNECT_PROJECT_ID=70ba37949838afd24f17421f5b6bcfd0" >> .env && cat .env'
 
   # Deploy to App Engine (it will run yarn install && yarn build with .env)
   - name: 'gcr.io/cloud-builders/gcloud'
