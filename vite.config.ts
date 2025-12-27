@@ -7,6 +7,7 @@ import path from 'path'
 export default defineConfig({
   define: {
     global: "window",
+    "process.env": {},
   },
   resolve: {
     alias: {

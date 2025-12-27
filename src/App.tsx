@@ -2,6 +2,7 @@ import '@interchain-ui/react/styles';
 
 import { wallets as ariaWallets } from '@cosmos-kit/aria';
 import { wallets as keplrWallets } from '@cosmos-kit/keplr';
+import { wallets as leapWallets } from '@cosmos-kit/leap';
 import { ChainProvider } from '@cosmos-kit/react';
 import { getSigningCosmosClientOptions } from '@orchestra-labs/symphonyjs';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
@@ -12,9 +13,12 @@ import { BrowserRouter } from 'react-router-dom';
 
 import { Loader, ScrollToTop } from '@/components';
 import { defaultChainName } from '@/constants';
+import { setupWalletErrorFilter } from '@/helpers';
 
 import { AppRouter } from './app/Router';
-import { MainWalletBase } from '@cosmos-kit/core';
+
+// Setup wallet error filtering (silences "wallet not installed" errors, shows toasts for user actions)
+setupWalletErrorFilter();
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -39,7 +43,8 @@ const signerOptions: SignerOptions = {
 
 export default function App() {
   const supportedChains = chains.filter(c => c.chain_name === defaultChainName);
-  const wallets: MainWalletBase[] = [...ariaWallets, ...keplrWallets];
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const wallets = [...ariaWallets, ...keplrWallets, ...leapWallets] as any;
 
   return (
     <ChainProvider
