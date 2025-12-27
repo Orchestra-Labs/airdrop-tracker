@@ -1,20 +1,18 @@
 steps:
-  # Install dependencies
-  - name: 'node:20'
-    entrypoint: 'yarn'
-    args: ['install']
+  # Create .env file for App Engine build
+  - name: 'ubuntu'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        cat > .env << 'EOF'
+        VITE_APP_URL=https://orchestralabs.org/
+        VITE_WALLETCONNECT_PROJECT_ID=70ba37949838afd24f17421f5b6bcfd0
+        EOF
 
-  # Build with environment variables
-  - name: 'node:20'
-    entrypoint: 'yarn'
-    args: ['build']
-    env:
-      - 'VITE_APP_URL=https://orchestralabs.org/'
-      - 'VITE_WALLETCONNECT_PROJECT_ID=70ba37949838afd24f17421f5b6bcfd0'
-
-  # Deploy to App Engine
+  # Deploy to App Engine (it will run yarn install && yarn build with .env)
   - name: 'gcr.io/cloud-builders/gcloud'
-    args: ['app', 'deploy', '--no-promote']
+    args: ['app', 'deploy']
 
 timeout: '1600s'
 options:
