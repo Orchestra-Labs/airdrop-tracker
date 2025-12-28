@@ -7,5 +7,6 @@ import { Buffer } from "buffer";
   env: {},
   browser: true,
   version: '',
-  nextTick: (fn: () => void, ...args: any[]) => setTimeout(() => fn(...args), 0),
+  nextTick: (fn: (...args: any[]) => void, ...args: any[]) =>
+    setTimeout(() => fn(...args), 0),
 };
