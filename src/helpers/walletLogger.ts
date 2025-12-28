@@ -1,29 +1,45 @@
 import { toast } from '@/hooks/useToast';
 
-// Error messages to silently ignore (wallet not installed)
+// Error messages to silently ignore (wallet not installed, internal errors)
 const SILENT_ERRORS = [
   'Client Not Exist',
   'not provided in `walletconnectOptions`',
   'initClientError',
+  'offscreen document',
 ];
 
 // Error messages that should show toasts (only show once per message type)
-const USER_FACING_ERRORS: Record<string, { title: string; description: string }> = {
+const USER_FACING_ERRORS: Record<
+  string,
+  { title: string; description: string }
+> = {
   'Request Rejected': {
     title: 'Connection Rejected',
     description: 'You rejected the wallet connection request.',
   },
-  'ConnectError': {
+  ConnectError: {
     title: 'Connection Failed',
     description: 'Failed to connect to wallet. Please try again.',
   },
-  'Timeout': {
+  Timeout: {
+    title: 'Connection Timeout',
+    description: 'The wallet connection timed out. Please try again.',
+  },
+  timeout: {
+    title: 'Connection Timeout',
+    description: 'The wallet connection timed out. Please try again.',
+  },
+  'timed out': {
     title: 'Connection Timeout',
     description: 'The wallet connection timed out. Please try again.',
   },
   'User Rejected': {
     title: 'Request Rejected',
     description: 'You cancelled the wallet request.',
+  },
+  'User rejected the connection': {
+    title: 'Connection Rejected',
+    description: 'You rejected the wallet connection request.',
   },
 };
 
@@ -33,7 +49,9 @@ function shouldSilence(message: string): boolean {
   return SILENT_ERRORS.some(err => message.includes(err));
 }
 
-function getToastForError(message: string): { title: string; description: string; key: string } | null {
+function getToastForError(
+  message: string,
+): { title: string; description: string; key: string } | null {
   for (const [key, value] of Object.entries(USER_FACING_ERRORS)) {
     if (message.includes(key)) {
       return { ...value, key };
@@ -84,12 +102,15 @@ export function setupWalletErrorFilter() {
   };
 
   // Catch unhandled promise rejections
-  window.addEventListener('unhandledrejection', (event: PromiseRejectionEvent) => {
-    const message = event.reason?.message || String(event.reason);
-    if (handleErrorMessage(message)) {
-      event.preventDefault(); // Suppress the console error
-    }
-  });
+  window.addEventListener(
+    'unhandledrejection',
+    (event: PromiseRejectionEvent) => {
+      const message = event.reason?.message || String(event.reason);
+      if (handleErrorMessage(message)) {
+        event.preventDefault(); // Suppress the console error
+      }
+    },
+  );
 }
 
 // Cleanup function if needed
