@@ -123,12 +123,12 @@ export const AirdropInfoContainer = () => {
             : `Wallet: ${isWalletConnected ? username : 'Not Connected'}`}
           {!viewTopRecipients && (
             <CardDescription
-              className="hover:bg-blue-hover hover:cursor-pointer p-2 rounded-md text-center"
+              className={`p-2 rounded-md text-center ${isWalletConnected && address ? 'hover:bg-blue-hover hover:cursor-pointer' : ''}`}
               onClick={() =>
-                isWalletConnected ? copyToClipboard(address || '') : {}
+                isWalletConnected && address ? copyToClipboard(address) : undefined
               }
             >
-              {address}
+              {isWalletConnected ? address : '\u00A0'}
             </CardDescription>
           )}
         </CardTitle>
